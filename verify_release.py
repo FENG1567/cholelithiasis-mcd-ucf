@@ -48,7 +48,13 @@ def sha256(path: Path) -> str:
 
 
 def release_files() -> list[Path]:
-    return sorted(p for p in ROOT.rglob("*") if p.is_file() and rel(p) not in EXCLUDED_FROM_MANIFEST)
+    return sorted(
+        p
+        for p in ROOT.rglob("*")
+        if p.is_file()
+        and not (p.relative_to(ROOT).parts and p.relative_to(ROOT).parts[0] == ".git")
+        and rel(p) not in EXCLUDED_FROM_MANIFEST
+    )
 
 
 def write_manifest() -> None:
