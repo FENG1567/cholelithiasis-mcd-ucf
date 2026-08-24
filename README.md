@@ -4,7 +4,7 @@ This repository accompanies the study **Conditional Underlying-Cause Fractions A
 
 It contains the aggregate analysis outputs needed to inspect the reported results, recreate publication figures, and run release-integrity checks. It does **not** contain death-certificate microdata, personal paths, credentials, internal review material, or record-level audit examples.
 
-For the current repository status and a manuscript-ready code-availability statement, see [docs/CODE_AVAILABILITY.md](docs/CODE_AVAILABILITY.md).
+The repository is public and the current versioned release is [v0.1.0](https://github.com/FENG1567/cholelithiasis-mcd-ucf/releases/tag/v0.1.0), released under the MIT License. No DOI or public-archive identifier has been assigned. For a manuscript-ready code-availability statement, see [docs/CODE_AVAILABILITY.md](docs/CODE_AVAILABILITY.md).
 
 ## Quick start
 
@@ -41,4 +41,4 @@ Generated graphics are written to `results/recreated_figures/`, recreated source
 
 NCHS Multiple Cause of Death public-use files and CDC WONDER are reused public sources. Obtain the original records directly from the official providers; do not rely on this repository as a source for individual-level mortality data. This package releases only derived aggregate values required to support the manuscript.
 
-Before public release, the authors must select a software licence and update repository/archive identifiers in `CITATION.cff` and the manuscript data-availability statement. See `LICENSE_PENDING.txt` and `docs/DATA_AVAILABILITY.md`.
+This release is distributed under the MIT License; see [`LICENSE`](LICENSE). The repository contains no individual-level mortality records, and no DOI or public-archive identifier has been assigned. See [docs/DATA_AVAILABILITY.md](docs/DATA_AVAILABILITY.md) for the manuscript-ready data-availability statement.

@@ -23,7 +23,7 @@ EXPECTED_DESTINATIONS = {
     "INFECTIOUS_PARASITIC", "NEOPLASMS", "OTHER", "OTHER_GALLBLADDER_BILIARY", "RESPIRATORY",
 }
 REQUIRED = {
-    "README.md", "CITATION.cff", "LICENSE_PENDING.txt", ".gitignore", "verify_release.py",
+    "README.md", "CITATION.cff", "LICENSE", ".gitignore", "verify_release.py",
     "docs/REPRODUCIBILITY.md", "docs/DATA_AVAILABILITY.md", "docs/DATA_DICTIONARY.md",
     "code/analysis/ANALYSIS_SPECIFICATION.md", "code/figures/revision_figures.R",
     "environment/requirements.txt", "environment/R_environment.md", "config/paths.example.json",
