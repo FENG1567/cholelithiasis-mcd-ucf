@@ -1,0 +1,246 @@
+analysis,year,stratum,A_records,B_records,UCF,CI_lo,CI_hi,note
+k80_code_count,1999,1,2335,1056,0.45224839400428263,0.43215564311457144,0.47249800531509056,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,1999,2,66,42,0.6363636363636364,0.5157964063076523,0.7419301690522909,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,1999,K80.2,1660,655,0.39457831325301207,0.3713356026346822,0.4183078167280769,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,1999,K80.4,40,23,0.575,0.4219506854199107,0.7149060744004961,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,1999,K80.1,333,169,0.5075075075075075,0.4540322578455889,0.5608115206414933,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,1999,K80.5,240,137,0.5708333333333333,0.5075830430993526,0.6318518182422598,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,1999,K80.0,131,99,0.7557251908396947,0.6755549161702148,0.8213249054067193,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,1999,K80.3,60,55,0.9166666666666666,0.8193105798166559,0.9638795433982693,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,1999,K80.8,3,2,0.6666666666666666,0.20765960080204768,0.9385080552796037,multilabel subtype rows are non-mutually-exclusive; do not sum
+k80_code_count,2000,1,2269,1040,0.4583516967827237,0.43793764407987407,0.47890653382505294,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2000,2,47,33,0.7021276595744681,0.5602232608095392,0.8134874949539516,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,2000,K80.2,1555,602,0.38713826366559484,0.3632345045488989,0.41159827397782767,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2000,K80.1,339,198,0.584070796460177,0.5309475316344968,0.6353100738373402,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2000,K80.0,127,88,0.6929133858267716,0.6080071380164639,0.7664918964764936,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2000,K80.3,63,56,0.8888888888888888,0.7879534424991746,0.9451245133761628,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2000,K80.5,233,133,0.5708154506437768,0.5066203236415293,0.6327133899925492,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2000,K80.4,42,27,0.6428571428571429,0.4916636571945582,0.7701081168438122,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2000,K80.8,4,2,0.5,0.15003898915214947,0.8499610108478506,multilabel subtype rows are non-mutually-exclusive; do not sum
+k80_code_count,2001,1,2340,1107,0.47307692307692306,0.4529083409202291,0.49333375684375647,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2001,2,49,31,0.6326530612244898,0.49267067560792427,0.7533482703131685,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,2001,K80.2,1633,674,0.4127372933251684,0.3890906887050609,0.4367934869038978,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2001,K80.0,132,90,0.6818181818181818,0.5981823406757425,0.7551707550338544,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2001,K80.1,307,171,0.5570032573289903,0.5010728595772764,0.6115247332045456,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2001,K80.5,248,138,0.5564516129032258,0.4942268424020494,0.6169542162334766,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2001,K80.3,62,60,0.967741935483871,0.8897953040501456,0.9911086285001834,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2001,K80.4,52,35,0.6730769230769231,0.5375618936197394,0.7847792554143083,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2001,K80.8,4,1,0.25,0.045587260809700575,0.6993581574175981,multilabel subtype rows are non-mutually-exclusive; do not sum
+k80_code_count,2002,1,2222,1045,0.47029702970297027,0.4496132644236902,0.49108332046697994,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2002,2,44,32,0.7272727272727273,0.581511269075488,0.8365361837615662,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,2002,K80.2,1595,639,0.4006269592476489,0.3768450250169025,0.4248864110481723,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2002,K80.5,221,136,0.6153846153846154,0.5497915686529613,0.6770349261914408,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2002,K80.0,110,88,0.8,0.7157046653839023,0.8640489734371992,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2002,K80.1,285,162,0.5684210526315789,0.5103844503117912,0.6246377177634996,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2002,K80.3,57,51,0.8947368421052632,0.7887718941661296,0.9508553414762553,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2002,K80.4,34,29,0.8529411764705882,0.6987194350454783,0.9355055855521754,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2002,K80.8,8,4,0.5,0.2152160622138776,0.7847839377861224,multilabel subtype rows are non-mutually-exclusive; do not sum
+k80_code_count,2003,2,45,33,0.7333333333333333,0.5896116224686505,0.8403509647893348,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2003,1,2166,1016,0.469067405355494,0.4481244118397349,0.49011992418985295,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,2003,K80.2,1583,654,0.4131396083385976,0.3891221088141469,0.4375776547498995,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2003,K80.5,213,115,0.539906103286385,0.4728578508549063,0.6055404411158986,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2003,K80.0,115,95,0.8260869565217391,0.7465896677058922,0.8845032248271645,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2003,K80.3,57,53,0.9298245614035088,0.8329982990396632,0.9723735797709339,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2003,K80.1,249,142,0.570281124497992,0.5081856121391601,0.6302410531840325,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2003,K80.4,34,21,0.6176470588235294,0.45041017344430695,0.760998166754911,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2003,K80.8,5,2,0.4,0.11762077423264786,0.769275718723987,multilabel subtype rows are non-mutually-exclusive; do not sum
+k80_code_count,2004,1,2107,1055,0.5007119126720455,0.4793806665541564,0.5220405676117083,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2004,2,42,32,0.7619047619047619,0.6147245613168169,0.8651903577535287,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,2004,K80.2,1503,664,0.4417831004657352,0.41685726506335413,0.46700576579792763,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2004,K80.1,273,166,0.608058608058608,0.5490332882763033,0.6640850800899513,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2004,K80.5,208,121,0.5817307692307693,0.5138071562092295,0.6466902279632338,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2004,K80.3,49,44,0.8979591836734694,0.7824363845080409,0.9556204532552371,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2004,K80.0,112,90,0.8035714285714286,0.7204588948082169,0.8665502873297101,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2004,K80.4,45,33,0.7333333333333333,0.5896116224686505,0.8403509647893348,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2004,K80.8,1,1,1.0,0.20654931437723742,1.0,multilabel subtype rows are non-mutually-exclusive; do not sum
+k80_code_count,2005,1,2049,1011,0.493411420204978,0.47179642702074337,0.5150510716577414,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2005,2,38,30,0.7894736842105263,0.636542205246726,0.8892520815700412,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,2005,K80.3,55,52,0.9454545454545454,0.851469394559462,0.9812767844453155,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2005,K80.2,1439,608,0.4225156358582349,0.3972334181964531,0.44821044631360274,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2005,K80.5,216,110,0.5092592592592593,0.4430144091858717,0.5751805210218216,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2005,K80.1,239,157,0.6569037656903766,0.5946603854691803,0.714183089463893,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2005,K80.0,120,94,0.7833333333333333,0.7014563746709163,0.8476327643584851,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2005,K80.4,53,48,0.9056603773584906,0.7974627262370373,0.9590273585027496,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2005,K80.8,3,2,0.6666666666666666,0.20765960080204768,0.9385080552796037,multilabel subtype rows are non-mutually-exclusive; do not sum
+k80_code_count,2006,1,1908,981,0.5141509433962265,0.49171887415975657,0.5365261457140721,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2006,2,36,26,0.7222222222222222,0.5600751000260289,0.8415166205986538,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2006,3+,3,3,1.0,0.4385029682449545,1.0,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,2006,K80.2,1307,572,0.43764345830145374,0.4109697118503141,0.46468268005172125,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2006,K80.1,247,166,0.6720647773279352,0.6112737587666119,0.7275856961242141,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2006,K80.5,228,127,0.5570175438596491,0.4921247018023738,0.6200209003356301,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2006,K80.3,60,52,0.8666666666666667,0.7583484032350039,0.9308589051941303,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2006,K80.0,109,93,0.8532110091743119,0.7747924198076281,0.9075808923129954,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2006,K80.4,36,30,0.8333333333333334,0.6810920568872053,0.921295524049819,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2006,K80.8,2,2,1.0,0.3423802275066531,1.0,multilabel subtype rows are non-mutually-exclusive; do not sum
+k80_code_count,2007,1,1822,982,0.5389681668496158,0.5160214350560565,0.5617509253611055,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2007,2,47,37,0.7872340425531915,0.6509597329080159,0.88010292001905,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2007,3+,1,1,1.0,0.20654931437723742,1.0,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,2007,K80.1,212,134,0.6320754716981132,0.5653473333251007,0.6941023586199526,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2007,K80.0,117,92,0.7863247863247863,0.7035748148826341,0.850870659823322,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2007,K80.2,1259,597,0.47418586179507544,0.44672426355354045,0.5018045089649826,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2007,K80.5,231,148,0.6406926406926406,0.5769833945459376,0.6997990795811232,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2007,K80.4,37,32,0.8648648648648649,0.7202258821599022,0.9408670557426799,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2007,K80.3,63,56,0.8888888888888888,0.7879534424991746,0.9451245133761628,multilabel subtype rows are non-mutually-exclusive; do not sum
+k80_code_count,2008,1,1985,1098,0.5531486146095718,0.531195765083782,0.5748961504201893,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2008,2,43,32,0.7441860465116279,0.5976159650115332,0.8507048287619176,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2008,3+,6,6,1.0,0.6096657120978346,1.0,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,2008,K80.2,1303,641,0.49194167306216424,0.4648602988960317,0.5190704221120465,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2008,K80.0,188,151,0.8031914893617021,0.7405326055296216,0.853708079986385,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2008,K80.1,232,146,0.6293103448275862,0.5655262713349858,0.6888819243233394,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2008,K80.4,57,42,0.7368421052631579,0.6102342073651618,0.8335421340202691,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2008,K80.5,242,146,0.6033057851239669,0.5405173314834795,0.6628657766377093,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2008,K80.3,67,54,0.8059701492537313,0.6958088777455581,0.8829482608358841,multilabel subtype rows are non-mutually-exclusive; do not sum
+k80_code_count,2009,1,1776,949,0.5343468468468469,0.5110986327865342,0.5574467982659799,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2009,2,46,37,0.8043478260869565,0.668287410770154,0.8934938986560146,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2009,3+,2,2,1.0,0.3423802275066531,1.0,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,2009,K80.0,172,125,0.7267441860465116,0.6557384467913617,0.7878429504690917,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2009,K80.2,1181,564,0.4775613886536833,0.4491926954619518,0.5060755814830898,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2009,K80.5,216,130,0.6018518518518519,0.5353392784359875,0.6648049538486384,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2009,K80.1,201,121,0.6019900497512438,0.5330183305571738,0.6671364634774114,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2009,K80.3,65,54,0.8307692307692308,0.7218357836377647,0.9027878187178839,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2009,K80.4,38,34,0.8947368421052632,0.7586947827711269,0.9582974265244647,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2009,K80.8,1,1,1.0,0.20654931437723742,1.0,multilabel subtype rows are non-mutually-exclusive; do not sum
+k80_code_count,2010,1,1736,957,0.5512672811059908,0.5277832999253307,0.5745248725219753,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2010,2,41,34,0.8292682926829268,0.6873738759959582,0.9147474802240498,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2010,3+,3,3,1.0,0.4385029682449545,1.0,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,2010,K80.2,1097,513,0.4676390154968095,0.4382773787162343,0.4972265038536859,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2010,K80.5,237,148,0.6244725738396625,0.5612960563090267,0.6836783774487648,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2010,K80.1,186,130,0.6989247311827957,0.6295217132427784,0.7602772298315753,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2010,K80.0,191,140,0.7329842931937173,0.6661024004275556,0.7906792339262685,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2010,K80.4,38,33,0.868421052631579,0.7267314055770868,0.9424613230987987,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2010,K80.3,75,68,0.9066666666666666,0.819653131504585,0.9540514766093996,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2010,K80.8,3,2,0.6666666666666666,0.20765960080204768,0.9385080552796037,multilabel subtype rows are non-mutually-exclusive; do not sum
+k80_code_count,2011,1,1764,970,0.5498866213151927,0.5265867260004188,0.5729697127977795,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2011,2,40,30,0.75,0.5980603857923198,0.8581288136090369,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2011,3+,4,4,1.0,0.5101091635454027,1.0,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,2011,K80.2,1169,560,0.47904191616766467,0.4505203187438389,0.5077008034449435,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2011,K80.5,220,119,0.5409090909090909,0.4749218757421064,0.6054921820237461,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2011,K80.0,173,131,0.7572254335260116,0.688198090611941,0.8150775586250417,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2011,K80.3,76,70,0.9210526315789473,0.8382725651786194,0.9633159947665283,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2011,K80.1,165,125,0.7575757575757576,0.6868090959966429,0.8166217591600169,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2011,K80.4,51,37,0.7254901960784313,0.5905334923922092,0.8288572476535512,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2011,K80.8,3,1,0.3333333333333333,0.061491944720396215,0.7923403991979523,multilabel subtype rows are non-mutually-exclusive; do not sum
+k80_code_count,2012,1,1698,987,0.5812720848056537,0.5576486384786393,0.6045286304846262,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2012,2,47,37,0.7872340425531915,0.6509597329080159,0.88010292001905,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2012,3+,1,1,1.0,0.20654931437723742,1.0,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,2012,K80.2,1075,551,0.5125581395348837,0.482686892534944,0.5423399543471867,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2012,K80.5,237,153,0.6455696202531646,0.5827916788955713,0.7037038453296425,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2012,K80.0,160,123,0.76875,0.6975811590318565,0.8273165110634596,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2012,K80.3,84,74,0.8809523809523809,0.794550842255297,0.9340345075240096,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2012,K80.1,183,125,0.6830601092896175,0.6124744114085297,0.7461183785583791,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2012,K80.4,53,37,0.6981132075471698,0.5646316733114987,0.8048169727242108,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2012,K80.8,3,1,0.3333333333333333,0.061491944720396215,0.7923403991979523,multilabel subtype rows are non-mutually-exclusive; do not sum
+k80_code_count,2013,1,1650,906,0.5490909090909091,0.5249955852482026,0.5729581812001954,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2013,2,47,38,0.8085106382978723,0.6745599542033822,0.8958406730145774,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2013,3+,4,4,1.0,0.5101091635454027,1.0,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,2013,K80.0,145,114,0.7862068965517242,0.7125427455329684,0.8450975830262148,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2013,K80.2,1030,472,0.458252427184466,0.4280352508565019,0.48877984756477794,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2013,K80.1,195,126,0.6461538461538462,0.576808865837986,0.7098516743635419,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2013,K80.3,93,83,0.8924731182795699,0.8132724499022683,0.9405369297680901,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2013,K80.5,255,168,0.6588235294117647,0.5986612728112062,0.7142715949335654,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2013,K80.4,35,29,0.8285714285714286,0.6731771770095504,0.9189735994629842,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2013,K80.8,3,2,0.6666666666666666,0.20765960080204768,0.9385080552796037,multilabel subtype rows are non-mutually-exclusive; do not sum
+k80_code_count,2014,1,1646,954,0.5795868772782503,0.5555818005314745,0.6032213369453091,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2014,2,46,40,0.8695652173913043,0.74334142220927,0.9388215963796489,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,2014,K80.2,1011,500,0.49455984174085066,0.463819934683868,0.5253409338395931,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2014,K80.0,173,136,0.7861271676300579,0.7191591099547308,0.8406643650392165,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2014,K80.5,255,158,0.6196078431372549,0.5586628346647657,0.6770026583282104,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2014,K80.1,155,118,0.7612903225806451,0.6883764115292811,0.8215660216451439,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2014,K80.4,53,42,0.7924528301886793,0.6654225529835208,0.8799540197358604,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2014,K80.3,88,77,0.875,0.7898824415232533,0.9287472584780775,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2014,K80.8,3,3,1.0,0.4385029682449545,1.0,multilabel subtype rows are non-mutually-exclusive; do not sum
+k80_code_count,2015,1,1720,1044,0.6069767441860465,0.5836805580471625,0.6297961501019469,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2015,2,50,33,0.66,0.5215382605023261,0.7756305077749992,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2015,3+,2,2,1.0,0.3423802275066531,1.0,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,2015,K80.2,1006,534,0.5308151093439364,0.49991791111919914,0.5614778648795447,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2015,K80.3,102,91,0.8921568627450981,0.8171406779024611,0.9387068027669795,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2015,K80.5,289,176,0.6089965397923875,0.5516590404755688,0.6634744322700874,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2015,K80.0,205,157,0.7658536585365854,0.7033233821771928,0.8186036366030417,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2015,K80.4,66,51,0.7727272727272727,0.6583054463536169,0.8571477043662696,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2015,K80.1,155,104,0.6709677419354839,0.5936466139682639,0.7400194225532736,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2015,K80.8,3,3,1.0,0.4385029682449545,1.0,multilabel subtype rows are non-mutually-exclusive; do not sum
+k80_code_count,2016,1,1692,992,0.5862884160756501,0.5626520114311906,0.6095338957367233,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2016,2,48,37,0.7708333333333334,0.6346073590999655,0.8669217373308876,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2016,3+,2,2,1.0,0.3423802275066531,1.0,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,2016,K80.4,58,49,0.8448275862068966,0.730660191401075,0.9161550804698196,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2016,K80.5,295,175,0.5932203389830508,0.5363142648923188,0.6477298105751356,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2016,K80.2,1001,503,0.5024975024975025,0.4715733337493554,0.5334025755904802,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2016,K80.3,111,104,0.9369369369369369,0.8755233588904047,0.9691193424135679,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2016,K80.1,156,112,0.717948717948718,0.642753175634603,0.7826683670721649,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2016,K80.0,173,129,0.7456647398843931,0.6759221529960465,0.8047343659381506,multilabel subtype rows are non-mutually-exclusive; do not sum
+k80_code_count,2017,1,1615,931,0.5764705882352941,0.5522184305427986,0.6003598214250848,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2017,2,48,37,0.7708333333333334,0.6346073590999655,0.8669217373308876,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2017,3+,5,5,1.0,0.5655175352168252,1.0,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,2017,K80.2,944,454,0.4809322033898305,0.4492015458921327,0.512817418708982,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2017,K80.5,284,163,0.573943661971831,0.5158215495733235,0.6300921077993039,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2017,K80.0,136,112,0.8235294117647058,0.7508362271277041,0.87844782598586,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2017,K80.4,63,54,0.8571428571428571,0.7502543407837413,0.9229805166527931,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2017,K80.1,172,122,0.7093023255813954,0.6374586314040578,0.772001119913284,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2017,K80.3,127,115,0.905511811023622,0.8420914548255637,0.9451208013535101,multilabel subtype rows are non-mutually-exclusive; do not sum
+k80_code_count,2018,1,1582,941,0.5948166877370418,0.5704237683757463,0.6187502491979235,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2018,2,37,27,0.7297297297297297,0.5702183167528574,0.8460253848895091,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2018,3+,1,1,1.0,0.20654931437723742,1.0,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,2018,K80.5,287,175,0.6097560975609756,0.552226014264262,0.6643868450421547,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2018,K80.2,916,472,0.5152838427947598,0.4829232166792987,0.5475168115793732,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2018,K80.3,116,97,0.8362068965517241,0.7582995878695619,0.8925603129324051,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2018,K80.1,179,122,0.6815642458100558,0.6101153332571297,0.7453839086502708,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2018,K80.0,108,92,0.8518518518518519,0.7728286547321882,0.9067046847054198,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2018,K80.4,53,40,0.7547169811320755,0.6243344231264808,0.8506709789194319,multilabel subtype rows are non-mutually-exclusive; do not sum
+k80_code_count,2019,1,1747,1010,0.5781339439038351,0.5548291841735769,0.6010958418329944,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2019,2,44,36,0.8181818181818182,0.6803944911281532,0.9048719428437227,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2019,3+,3,3,1.0,0.4385029682449545,1.0,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,2019,K80.3,138,125,0.9057971014492754,0.8454945222747072,0.9441194659851176,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2019,K80.2,958,449,0.46868475991649267,0.43727312379060873,0.5003465333267237,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2019,K80.1,217,147,0.6774193548387096,0.612602798755777,0.7360636174650919,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2019,K80.5,339,215,0.6342182890855457,0.5817084762839879,0.6837203324517517,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2019,K80.4,78,63,0.8076923076923077,0.7066518728093648,0.8798479365985157,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2019,K80.0,112,91,0.8125,0.7303087134885468,0.8739654445946133,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2019,K80.8,2,1,0.5,0.09453120573423071,0.9054687942657693,multilabel subtype rows are non-mutually-exclusive; do not sum
+k80_code_count,2020,1,1848,1008,0.5454545454545454,0.5226815687003987,0.5680389404445834,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2020,2,57,43,0.7543859649122807,0.628977037672441,0.847671625297096,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2020,3+,1,1,1.0,0.20654931437723742,1.0,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,2020,K80.2,1023,469,0.458455522971652,0.4281342587683079,0.4890876265871776,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2020,K80.5,346,183,0.5289017341040463,0.47627690893360264,0.5808918442136644,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2020,K80.4,73,59,0.8082191780821918,0.7034449738686679,0.882176391090128,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2020,K80.1,254,160,0.6299212598425197,0.5690203880835804,0.6869508599145826,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2020,K80.3,159,137,0.8616352201257862,0.7993901352081454,0.9068182274093091,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2020,K80.0,109,88,0.8073394495412844,0.7233607358661399,0.8703926655894677,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2020,K80.8,1,1,1.0,0.20654931437723742,1.0,multilabel subtype rows are non-mutually-exclusive; do not sum
+k80_code_count,2021,1,1973,1122,0.5686771414090218,0.5467111386827382,0.5903762330894361,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2021,2,56,45,0.8035714285714286,0.681553923735416,0.8866140432567634,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2021,3+,5,5,1.0,0.5655175352168252,1.0,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,2021,K80.2,1017,458,0.4503441494591937,0.42001028628175574,0.4810517257208935,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2021,K80.5,412,245,0.5946601941747572,0.5465900005936833,0.6409814845131748,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2021,K80.4,94,77,0.8191489361702128,0.7293303791966496,0.8839065933832155,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2021,K80.1,266,174,0.6541353383458647,0.5951467336392187,0.7087354064825032,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2021,K80.3,179,159,0.888268156424581,0.8337241037909872,0.9264973519802236,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2021,K80.0,129,112,0.8682170542635659,0.7990710311857546,0.9160671556677071,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2021,K80.8,3,2,0.6666666666666666,0.20765960080204768,0.9385080552796037,multilabel subtype rows are non-mutually-exclusive; do not sum
+k80_code_count,2022,1,2136,1179,0.5519662921348315,0.530802582863945,0.572943420880813,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2022,2,67,48,0.7164179104477612,0.599067617155195,0.8102971881828981,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2022,3+,2,2,1.0,0.3423802275066531,1.0,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,2022,K80.2,1096,509,0.46441605839416056,0.4350653110533279,0.49401537655447003,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2022,K80.3,159,133,0.8364779874213837,0.7711842443948407,0.8858965799535734,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2022,K80.0,285,198,0.6947368421052632,0.638975116873092,0.7453187461104286,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2022,K80.1,145,87,0.6,0.5186737027335637,0.6761644843533797,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2022,K80.5,485,269,0.554639175257732,0.5101496542990377,0.5982699550521411,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2022,K80.4,106,85,0.8018867924528302,0.7160468923505877,0.8666110647371271,multilabel subtype rows are non-mutually-exclusive; do not sum
+k80_code_count,2023,1,2001,1078,0.5387306346826587,0.516835469570432,0.5604773769482028,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2023,2,50,33,0.66,0.5215382605023261,0.7756305077749992,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2023,3+,6,6,1.0,0.6096657120978346,1.0,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,2023,K80.2,1023,442,0.43206256109481916,0.4020172335088188,0.46261620254309277,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2023,K80.4,108,81,0.75,0.6607046489100945,0.8221216712166269,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2023,K80.3,180,154,0.8555555555555555,0.7967697562121162,0.8994823341547366,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2023,K80.5,481,248,0.5155925155925156,0.4709844841800512,0.5599534641473987,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2023,K80.0,177,142,0.8022598870056498,0.7374350033255157,0.8542434795719898,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2023,K80.1,150,95,0.6333333333333333,0.5537823804885078,0.7062255543466717,multilabel subtype rows are non-mutually-exclusive; do not sum
+k80_code_count,2024,1,2014,1130,0.5610724925521351,0.539303293627749,0.5826091583761722,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2024,2,50,30,0.6,0.46181437747589366,0.7239161026974346,mutually exclusive count of distinct valid K80 four-character codes
+k80_code_count,2024,3+,1,1,1.0,0.20654931437723742,1.0,mutually exclusive count of distinct valid K80 four-character codes
+multi_label_sensitivity,2024,K80.2,1014,448,0.4418145956607495,0.4115251546428497,0.4725432344197074,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2024,K80.5,508,284,0.5590551181102362,0.5155966064796962,0.6016271919563326,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2024,K80.3,158,137,0.8670886075949367,0.8053528677555306,0.9113979626266747,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2024,K80.1,158,113,0.7151898734177216,0.6403616917009567,0.7798025881782672,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2024,K80.4,99,76,0.7676767676767676,0.6754474972079758,0.8399088640082378,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2024,K80.0,176,132,0.75,0.6811495957232009,0.8081702784429553,multilabel subtype rows are non-mutually-exclusive; do not sum
+multi_label_sensitivity,2024,K80.8,4,3,0.75,0.3006418425824019,0.9544127391902995,multilabel subtype rows are non-mutually-exclusive; do not sum

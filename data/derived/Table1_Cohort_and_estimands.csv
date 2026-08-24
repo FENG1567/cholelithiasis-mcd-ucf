@@ -1,0 +1,12 @@
+Item,Exact definition or scope,Value
+All death records,All 26 final annual NCHS MCD public-use files before resident filtering,"69,856,220"
+Resident death records,Residents of the 50 states and District of Columbia,"69,714,059"
+Excluded non-resident/territory records,Applied before disease-code selection,"142,161"
+A: record-axis K80 coded,At least one deduplicated normalized record-axis K80 prefix,"51,084"
+B: UCD K80 within A,A=1 and normalized UCD K80; B constrained to A,"27,514"
+UCF complement (A−B),A minus B; arithmetic complement rather than an error count,"23,570"
+Official UCD K80 control,All UCD K80 records without requiring record-axis K80,"27,519"
+UCD-control records outside A,Two in 1999; two in 2000; one in 2004,5
+Unknown age within A,Excluded from age-by-sex standardization,6
+Unknown sex within A,None observed,0
+Primary UCF,B divided by A; disease-conditional denominator,53.86%

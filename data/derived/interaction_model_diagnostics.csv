@@ -1,0 +1,8 @@
+model,status,detail,n_cells,df_model,df_residual,deviance,deviance_per_df,lr_vs_main,df_diff,p_value
+main_effects,fit_numpy_irls,aggregated binomial IRLS; LR p uses regularized upper incomplete gamma,413,33,379,503.0456385729203,1.3272971994008451,,,
+year_x_age,fit_numpy_irls,aggregated binomial IRLS; LR p uses regularized upper incomplete gamma,413,208,204,235.72349205247508,1.155507313982721,267.32214652044524,175,8.613104470357251e-06
+year_x_sex,fit_numpy_irls,aggregated binomial IRLS; LR p uses regularized upper incomplete gamma,413,58,354,473.10540744586643,1.336455953236911,29.94023112705389,25,0.2265347750466723
+age_x_sex,fit_numpy_irls,aggregated binomial IRLS; LR p uses regularized upper incomplete gamma,413,40,372,488.6998866789718,1.313709372792935,14.345751893948545,7,0.04536263955264709
+all_pairwise,fit_numpy_irls,aggregated binomial IRLS; LR p uses regularized upper incomplete gamma,413,240,172,196.49938626157947,1.1424382922184853,306.5462523113408,207,8.322944913589725e-06
+saturated_year_x_age_x_sex,fit_numpy_irls,aggregated binomial IRLS; LR p uses regularized upper incomplete gamma,413,412,0,6.685045850178735e-10,,503.04563857225185,379,1.9416724935426265e-05
+empirical_marginal_equivalence,by_construction,Fixed-weight sum of observed year×age×sex binomial proportions equals saturated three-way cell marginal estimate; annual values in interaction_empirical_marginal_sensitivity.csv.,413,,,,,,,

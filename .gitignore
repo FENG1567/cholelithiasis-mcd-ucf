@@ -1,0 +1,25 @@
+# Python / R caches and local outputs
+__pycache__/
+*.py[cod]
+.Rhistory
+.RData
+.Rproj.user/
+results/recreated_figures/
+results/recreated_figure_source_data/
+
+# Locally obtained source data and configuration
+data/raw/
+data/private/
+config/paths.json
+*.zip
+
+# Credentials, private notes, and office artefacts
+*.pem
+*.key
+*.pfx
+*.password
+*credential*
+*private*
+*review*
+*qa*
+~$*

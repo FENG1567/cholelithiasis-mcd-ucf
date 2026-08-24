@@ -1,0 +1,24 @@
+Analysis,Estimate,95% CI or component,Interpretation
+Primary fixed standard: 1999 UCF,45.65%,43.61% to 47.70%,2018-2024 K80 age-by-sex weights
+Primary fixed standard: 2015 UCF,60.84%,58.57% to 63.11%,Observed descriptive maximum; no peak test
+Primary fixed standard: 2024 UCF,56.12%,54.00% to 58.24%,2018-2024 K80 age-by-sex weights
+Primary 2024 minus 1999 RD,+10.46 percentage points,+7.52 to +13.41,Revision-stage contrast frozen before revised reanalysis
+Primary 2024 versus 1999 RR,1.229,1.159 to 1.303,Revision-stage contrast frozen before revised reanalysis
+1999 fixed-standard RD,+11.50 percentage points,+8.58 to +14.41,Alternative target population
+Full-period fixed-standard RD,+10.73 percentage points,+7.81 to +13.66,Alternative target population
+Subtype Kitagawa composition,+5.31 percentage points,Joint-bootstrap 95% CI +4.15 to +6.50,100000-replicate endpoint-year multinomial bootstrap; descriptive accounting identity
+Subtype Kitagawa within-stratum,+5.18 percentage points,Joint-bootstrap 95% CI +2.27 to +8.11,100000-replicate endpoint-year multinomial bootstrap; descriptive accounting identity
+Severity Kitagawa composition,+2.69 percentage points,Joint-bootstrap 95% CI +1.87 to +3.53,100000-replicate endpoint-year multinomial bootstrap; descriptive accounting identity
+Severity Kitagawa within-stratum,+7.80 percentage points,Joint-bootstrap 95% CI +4.98 to +10.63,100000-replicate endpoint-year multinomial bootstrap; descriptive accounting identity
+Entity Part I/II Kitagawa composition,+8.31 percentage points,Joint-bootstrap 95% CI +6.01 to +10.63,100000-replicate endpoint-year multinomial bootstrap; descriptive accounting identity
+Entity Part I/II Kitagawa within-position,+2.18 percentage points,Joint-bootstrap 95% CI +0.37 to +4.01,100000-replicate endpoint-year multinomial bootstrap; descriptive accounting identity
+Certificate-complexity Kitagawa composition,−4.10 percentage points,Joint-bootstrap 95% CI −5.17 to −3.06,100000-replicate endpoint-year multinomial bootstrap; descriptive accounting identity
+Certificate-complexity Kitagawa within-stratum,+14.59 percentage points,Joint-bootstrap 95% CI +11.79 to +17.39,100000-replicate endpoint-year multinomial bootstrap; descriptive accounting identity
+CIRCULATORY destination RD,−18.33 percentage points,FWER simultaneous 95% CI −23.77 to −12.89,100000-replicate joint multinomial bootstrap; max-t over nine destination RDs
+OTHER destination RD,+10.89 percentage points,FWER simultaneous 95% CI +5.71 to +16.07,100000-replicate joint multinomial bootstrap; max-t over nine destination RDs
+DIGESTIVE_OTHER destination RD,+2.86 percentage points,FWER simultaneous 95% CI −0.30 to +6.02,100000-replicate joint multinomial bootstrap; max-t over nine destination RDs; interval includes zero
+I21 benchmark RD,-13.51 percentage points,-13.80 to -13.21,Disease-specific fixed weights
+C18 benchmark RD,+0.46 percentage points,+0.03 to +0.89,Disease-specific fixed weights
+E10-E14 benchmark RD,-4.50 percentage points,-4.76 to -4.25,Disease-specific fixed weights
+N18 benchmark RD,+7.14 percentage points,+6.70 to +7.59,Disease-specific fixed weights
+A40-A41 benchmark RD,-3.55 percentage points,-3.82 to -3.27,Disease-specific fixed weights

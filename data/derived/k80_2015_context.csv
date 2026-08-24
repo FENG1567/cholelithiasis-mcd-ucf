@@ -1,0 +1,4 @@
+year,std_UCF,CI_lo,CI_hi,is_2015_pre_requested_reference,is_descriptive_maximum_over_annual_series,interpretation
+1999,0.45654027259504626,0.436077108785786,0.47700343640430654,0,0,2015 was requested in the frozen contrast set; annual maximum is descriptive only and no post-hoc peak hypothesis test is performed.
+2015,0.6083978525456388,0.5856720038010728,0.6311237012902049,1,1,2015 was requested in the frozen contrast set; annual maximum is descriptive only and no post-hoc peak hypothesis test is performed.
+2024,0.5611901794877248,0.5399790377077649,0.5824013212676846,0,0,2015 was requested in the frozen contrast set; annual maximum is descriptive only and no post-hoc peak hypothesis test is performed.

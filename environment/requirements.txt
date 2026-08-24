@@ -1,0 +1,4 @@
+# Python >=3.10
+# `python verify_release.py` uses only the standard library.
+# The optional joint-bootstrap raw-regeneration extension additionally requires:
+numpy>=1.26

@@ -1,0 +1,3 @@
+No licence has been selected because author and institutional rights have not been provided.
+
+Before making this repository public, the authors must choose and add an appropriate software licence (for example, MIT, BSD-3-Clause, or GPL-3.0-only) after confirming that they hold the required rights. Do not treat this placeholder as a licence grant.

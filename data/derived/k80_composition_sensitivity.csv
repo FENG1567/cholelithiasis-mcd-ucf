@@ -1,0 +1,891 @@
+analysis,scenario,comparison,start_year,end_year,year,group,A_records,B_records,denominator_records,UCF,UCF_CI_lo,UCF_CI_hi,start_weight,end_weight,start_UCF,end_UCF,composition_component,selection_component,total_change,composition_total,selection_total,decomposition_residual,excluded_A_records,excluded_B_records,metric,metric_value,note
+overall,primary_record_axis_K80,annual,,,1999,all_A_records,2401,1098,2401,0.4573094543940025,0.4374668512790624,0.477288444024051,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+overall,primary_record_axis_K80,annual,,,2000,all_A_records,2316,1073,2316,0.4632987910189983,0.44306789669181,0.48365123346529126,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+overall,primary_record_axis_K80,annual,,,2001,all_A_records,2389,1138,2389,0.4763499372122227,0.456376593706232,0.4963992161647272,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+overall,primary_record_axis_K80,annual,,,2002,all_A_records,2266,1077,2266,0.47528684907325686,0.4547844323205873,0.49587291444486037,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+overall,primary_record_axis_K80,annual,,,2003,all_A_records,2211,1049,2211,0.47444595205789236,0.45369427286130914,0.4952862740080964,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+overall,primary_record_axis_K80,annual,,,2004,all_A_records,2149,1087,2149,0.5058166589111215,0.4846868235242071,0.5269257361919621,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+overall,primary_record_axis_K80,annual,,,2005,all_A_records,2087,1041,2087,0.49880210828941063,0.47737262502394834,0.520235993277116,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+overall,primary_record_axis_K80,annual,,,2006,all_A_records,1947,1010,1947,0.5187467899332306,0.4965380095765793,0.5408817405881161,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+overall,primary_record_axis_K80,annual,,,2007,all_A_records,1870,1020,1870,0.5454545454545454,0.5228162016374261,0.5679065215682978,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+overall,primary_record_axis_K80,annual,,,2008,all_A_records,2034,1136,2034,0.5585054080629301,0.5368353100827341,0.5799549333239985,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+overall,primary_record_axis_K80,annual,,,2009,all_A_records,1824,988,1824,0.5416666666666666,0.5187368528275924,0.5644213441081904,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+overall,primary_record_axis_K80,annual,,,2010,all_A_records,1780,994,1780,0.5584269662921348,0.5352569842491082,0.5813453062579809,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+overall,primary_record_axis_K80,annual,,,2011,all_A_records,1808,1004,1808,0.5553097345132744,0.5323106687663177,0.578074265316258,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+overall,primary_record_axis_K80,annual,,,2012,all_A_records,1746,1025,1746,0.5870561282932417,0.5637949394080431,0.6099350853708194,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+overall,primary_record_axis_K80,annual,,,2013,all_A_records,1701,948,1701,0.5573192239858906,0.5336119064164113,0.5807682308046116,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+overall,primary_record_axis_K80,annual,,,2014,all_A_records,1692,994,1692,0.5874704491725768,0.5638412704743248,0.610703347750684,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+overall,primary_record_axis_K80,annual,,,2015,all_A_records,1772,1079,1772,0.6089164785553047,0.5859831121153685,0.6313786338235601,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+overall,primary_record_axis_K80,annual,,,2016,all_A_records,1742,1031,1742,0.5918484500574053,0.5685906491037471,0.6147020538981384,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+overall,primary_record_axis_K80,annual,,,2017,all_A_records,1668,973,1668,0.5833333333333334,0.5595089244550656,0.6067747853627897,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+overall,primary_record_axis_K80,annual,,,2018,all_A_records,1620,969,1620,0.5981481481481481,0.574068936459787,0.6217629892941875,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+overall,primary_record_axis_K80,annual,,,2019,all_A_records,1794,1049,1794,0.584726867335563,0.5617670984689374,0.6073245633728198,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+overall,primary_record_axis_K80,annual,,,2020,all_A_records,1906,1052,1906,0.5519412381951732,0.5295335158543095,0.5741400111212033,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+overall,primary_record_axis_K80,annual,,,2021,all_A_records,2034,1172,2034,0.576204523107178,0.5546053491524149,0.5975163964613965,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+overall,primary_record_axis_K80,annual,,,2022,all_A_records,2205,1229,2205,0.5573696145124717,0.536555882359061,0.5779838004188407,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+overall,primary_record_axis_K80,annual,,,2023,all_A_records,2057,1117,2057,0.5430238210986874,0.521436365855208,0.5644508814351719,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+overall,primary_record_axis_K80,annual,,,2024,all_A_records,2065,1161,2065,0.5622276029055691,0.5407338595177733,0.5834902558218807,,,,,,,,,,,,,,,A=resident record-axis K80; B=A and UCD root K80; crude UCF.
+entity_status,raw_entity_axis_status,annual,,,1999,Part_I_only,1215,1015,1215,0.8353909465020576,0.81348871973099,0.8551790500612878,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,1999,Part_II_only,1171,69,1171,0.05892399658411614,0.04682387095601707,0.07390855447530417,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,1999,Both,15,14,15,0.9333333333333333,0.7018347012621998,0.9881331045067316,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,1999,entity_no_K80,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,1999,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2000,Part_I_only,1204,1015,1204,0.8430232558139535,0.8213878793769863,0.86247670729359,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2000,Part_II_only,1099,49,1099,0.044585987261146494,0.03388834468374071,0.05845626025122125,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2000,Both,13,9,13,0.6923076923076923,0.42369343180549035,0.8731929634428949,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2000,entity_no_K80,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2000,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2001,Part_I_only,1269,1060,1269,0.8353033884948778,0.8138900209237837,0.854692852538292,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2001,Part_II_only,1098,60,1098,0.0546448087431694,0.04268772575420833,0.06970726340624875,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2001,Both,22,18,22,0.8181818181818182,0.6148339256287346,0.9269311541657795,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2001,entity_no_K80,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2001,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2002,Part_I_only,1191,994,1191,0.834592779177162,0.8124223721120295,0.8546117302923489,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2002,Part_II_only,1058,68,1058,0.06427221172022685,0.051014138675970794,0.08068297830795758,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2002,Both,17,15,17,0.8823529411764706,0.6566364940511412,0.9671202262362074,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2002,entity_no_K80,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2002,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2003,Part_I_only,1182,985,1182,0.8333333333333334,0.8110146929682663,0.8534923489626651,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2003,Part_II_only,1017,54,1017,0.05309734513274336,0.040921712300837645,0.06863639572300442,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2003,Both,12,10,12,0.8333333333333334,0.5519691377470266,0.9530348578161463,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2003,entity_no_K80,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2003,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2004,Part_I_only,1210,1017,1210,0.8404958677685951,0.818792327621539,0.8600442650917764,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2004,Part_II_only,922,55,922,0.0596529284164859,0.046115012763751025,0.07684497972319332,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2004,Both,17,15,17,0.8823529411764706,0.6566364940511412,0.9671202262362074,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2004,entity_no_K80,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2004,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2005,Part_I_only,1151,985,1151,0.8557775847089487,0.8342975291633392,0.8748907267175587,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2005,Part_II_only,925,46,925,0.04972972972972973,0.03748839836244382,0.06569547431091796,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2005,Both,11,10,11,0.9090909090909091,0.6226415635484044,0.9837678271141151,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2005,entity_no_K80,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2005,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2006,Part_I_only,1096,943,1096,0.8604014598540146,0.8386219469995211,0.879663396459961,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2006,Part_II_only,841,58,841,0.06896551724137931,0.05372663164293609,0.0881241944138008,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2006,Both,10,9,10,0.9,0.5958499732047616,0.9821237869049271,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2006,entity_no_K80,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2006,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2007,Part_I_only,1103,953,1103,0.8640072529465095,0.8425104511247382,0.8829773715446187,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2007,Part_II_only,750,51,750,0.068,0.05209614530686504,0.08830666430547972,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2007,Both,17,16,17,0.9411764705882353,0.7301796936242461,0.9895395990150025,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2007,entity_no_K80,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2007,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2008,Part_I_only,1214,1080,1214,0.8896210873146623,0.8707498220344135,0.9060343752420252,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2008,Part_II_only,808,46,808,0.05693069306930693,0.04295104176070542,0.07510336132424714,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2008,Both,12,10,12,0.8333333333333334,0.5519691377470266,0.9530348578161463,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2008,entity_no_K80,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2008,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2009,Part_I_only,1106,931,1106,0.8417721518987342,0.819085421614714,0.8620929520994178,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2009,Part_II_only,702,43,702,0.06125356125356125,0.0457906957137784,0.08149207819808482,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2009,Both,16,14,16,0.875,0.6397717273424132,0.9650225122567595,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2009,entity_no_K80,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2009,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2010,Part_I_only,1113,958,1113,0.8607367475292004,0.8391529624330135,0.8798389711650744,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2010,Part_II_only,657,29,657,0.0441400304414003,0.030906564640661813,0.06267330689320566,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2010,Both,10,7,10,0.7,0.3967781474611453,0.8922087325936988,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2010,entity_no_K80,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2010,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2011,Part_I_only,1138,960,1138,0.843585237258348,0.8213284165348131,0.8635302334634606,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2011,Part_II_only,657,31,657,0.0471841704718417,0.03343750647989905,0.06619525405875061,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2011,Both,13,13,13,1.0,0.7719046276458015,1.0,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2011,entity_no_K80,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2011,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2012,Part_I_only,1107,970,1107,0.8762420957542909,0.8555321960784968,0.8943497905772231,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2012,Part_II_only,630,48,630,0.0761904761904762,0.05794614467649288,0.09957188673542529,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2012,Both,9,7,9,0.7777777777777778,0.45258896910698887,0.9367748928821533,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2012,entity_no_K80,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2012,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2013,Part_I_only,1055,904,1055,0.8568720379146919,0.8344439104350727,0.8767107140151909,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2013,Part_II_only,635,36,635,0.05669291338582677,0.0412289799190672,0.07748820377890067,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2013,Both,11,8,11,0.7272727272727273,0.43435469882387095,0.9025394070997511,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2013,entity_no_K80,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2013,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2014,Part_I_only,1091,954,1091,0.8744271310724107,0.8534411883828571,0.8927855766138115,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2014,Part_II_only,591,30,591,0.050761421319796954,0.03578546628336034,0.07153970057246595,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2014,Both,10,10,10,1.0,0.7224672001371106,0.9999999999999999,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2014,entity_no_K80,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2014,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2015,Part_I_only,1191,1034,1191,0.8681780016792612,0.8477759226963308,0.886212669284397,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2015,Part_II_only,572,39,572,0.06818181818181818,0.05027476617510234,0.0918502190392359,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2015,Both,9,6,9,0.6666666666666666,0.35420213558039626,0.8794161816130891,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2015,entity_no_K80,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2015,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2016,Part_I_only,1142,979,1142,0.8572679509632224,0.8357810942597974,0.8763593102598919,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2016,Part_II_only,585,39,585,0.06666666666666667,0.049148742020732945,0.0898385143871338,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2016,Both,15,13,15,0.8666666666666667,0.6211801716767764,0.9626387408969347,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2016,entity_no_K80,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2016,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2017,Part_I_only,1090,939,1090,0.8614678899082568,0.8396868775382086,0.8807100260949452,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2017,Part_II_only,571,27,571,0.047285464098073555,0.03269822453792171,0.06792336065420718,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2017,Both,7,7,7,1.0,0.6456695649333126,1.0,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2017,entity_no_K80,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2017,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2018,Part_I_only,1081,922,1081,0.8529139685476411,0.8305505408213558,0.8727780366368099,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2018,Part_II_only,531,39,531,0.07344632768361582,0.05419042197074493,0.09882961316481009,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2018,Both,8,8,8,1.0,0.6755924351161198,1.0,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2018,entity_no_K80,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2018,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2019,Part_I_only,1173,1000,1173,0.8525149190110827,0.8310727631355018,0.8716557087427168,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2019,Part_II_only,604,34,604,0.056291390728476824,0.04055937718059835,0.07763173627204045,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2019,Both,16,14,16,0.875,0.6397717273424132,0.9650225122567595,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2019,entity_no_K80,1,1,1,1.0,0.20654931437723742,1.0,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2019,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2020,Part_I_only,1192,998,1192,0.837248322147651,0.8152150309952031,0.8571148954089898,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2020,Part_II_only,699,41,699,0.058655221745350504,0.04352887186837537,0.07860601039188361,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2020,Both,15,13,15,0.8666666666666667,0.6211801716767764,0.9626387408969347,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2020,entity_no_K80,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2020,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2021,Part_I_only,1301,1117,1301,0.8585703305149884,0.8385780429342553,0.8764513529306173,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2021,Part_II_only,729,51,729,0.06995884773662552,0.05360818480251435,0.09081794931797703,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2021,Both,4,4,4,1.0,0.5101091635454027,1.0,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2021,entity_no_K80,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2021,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2022,Part_I_only,1369,1166,1369,0.8517165814463111,0.8319078007003948,0.8695570289145568,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2022,Part_II_only,816,44,816,0.05392156862745098,0.040410415064090786,0.07161302292208283,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2022,Both,19,18,19,0.9473684210526315,0.753612688331012,0.9906480059376995,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2022,entity_no_K80,1,1,1,1.0,0.20654931437723742,1.0,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2022,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2023,Part_I_only,1251,1051,1251,0.8401278976818545,0.8187825242620117,0.8593907971707799,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2023,Part_II_only,797,59,797,0.0740276035131744,0.057823096283047645,0.09431870092125273,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2023,Both,9,7,9,0.7777777777777778,0.45258896910698887,0.9367748928821533,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2023,entity_no_K80,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2023,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2024,Part_I_only,1254,1094,1254,0.8724082934609251,0.8527982307227627,0.889743679825872,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2024,Part_II_only,791,49,791,0.061946902654867256,0.04717245539133176,0.08095556019028653,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2024,Both,20,18,20,0.9,0.6989663547715128,0.9721335187862318,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2024,entity_no_K80,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+entity_status,raw_entity_axis_status,annual,,,2024,entity_unknown,0,0,0,,,,,,,,,,,,,,,,,,Exhaustive entity-axis K80 status among A.
+part_rule,Part_I_priority,annual,,,1999,Part_I,1230,1029,2401,0.8365853658536585,0.8148798992225255,0.8561949735503529,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,1999,Part_II,1171,69,2401,0.05892399658411614,0.04682387095601707,0.07390855447530417,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,1999,included_all,2401,1098,2401,0.4573094543940025,0.4374668512790624,0.477288444024051,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_I_priority,annual,,,2000,Part_I,1217,1024,2316,0.8414133114215283,0.8198202034485236,0.860857860026424,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2000,Part_II,1099,49,2316,0.044585987261146494,0.03388834468374071,0.05845626025122125,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,2000,included_all,2316,1073,2316,0.4632987910189983,0.44306789669181,0.48365123346529126,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_I_priority,annual,,,2001,Part_I,1291,1078,2389,0.8350116189000775,0.8137764955313797,0.8542589570774811,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2001,Part_II,1098,60,2389,0.0546448087431694,0.04268772575420833,0.06970726340624875,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,2001,included_all,2389,1138,2389,0.4763499372122227,0.456376593706232,0.4963992161647272,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_I_priority,annual,,,2002,Part_I,1208,1009,2266,0.8352649006622517,0.8132903069320079,0.8551139584149238,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2002,Part_II,1058,68,2266,0.06427221172022685,0.051014138675970794,0.08068297830795758,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,2002,included_all,2266,1077,2266,0.47528684907325686,0.4547844323205873,0.49587291444486037,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_I_priority,annual,,,2003,Part_I,1194,995,2211,0.8333333333333334,0.8111324374526132,0.85339623964267,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2003,Part_II,1017,54,2211,0.05309734513274336,0.040921712300837645,0.06863639572300442,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,2003,included_all,2211,1049,2211,0.47444595205789236,0.45369427286130914,0.4952862740080964,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_I_priority,annual,,,2004,Part_I,1227,1032,2149,0.8410757946210269,0.819558690330005,0.8604639023457038,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2004,Part_II,922,55,2149,0.0596529284164859,0.046115012763751025,0.07684497972319332,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,2004,included_all,2149,1087,2149,0.5058166589111215,0.4846868235242071,0.5269257361919621,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_I_priority,annual,,,2005,Part_I,1162,995,2087,0.8562822719449226,0.8349372563194123,0.8752793805443707,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2005,Part_II,925,46,2087,0.04972972972972973,0.03748839836244382,0.06569547431091796,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,2005,included_all,2087,1041,2087,0.49880210828941063,0.47737262502394834,0.520235993277116,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_I_priority,annual,,,2006,Part_I,1106,952,1947,0.8607594936708861,0.8391048986212952,0.879916718076955,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2006,Part_II,841,58,1947,0.06896551724137931,0.05372663164293609,0.0881241944138008,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,2006,included_all,1947,1010,1947,0.5187467899332306,0.4965380095765793,0.5408817405881161,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_I_priority,annual,,,2007,Part_I,1120,969,1870,0.8651785714285715,0.8439236653024328,0.8839370071970231,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2007,Part_II,750,51,1870,0.068,0.05209614530686504,0.08830666430547972,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,2007,included_all,1870,1020,1870,0.5454545454545454,0.5228162016374261,0.5679065215682978,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_I_priority,annual,,,2008,Part_I,1226,1090,2034,0.8890701468189234,0.8702612864793802,0.9054484549329799,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2008,Part_II,808,46,2034,0.05693069306930693,0.04295104176070542,0.07510336132424714,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,2008,included_all,2034,1136,2034,0.5585054080629301,0.5368353100827341,0.5799549333239985,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_I_priority,annual,,,2009,Part_I,1122,945,1824,0.8422459893048129,0.8197540879565537,0.8624023506635617,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2009,Part_II,702,43,1824,0.06125356125356125,0.0457906957137784,0.08149207819808482,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,2009,included_all,1824,988,1824,0.5416666666666666,0.5187368528275924,0.5644213441081904,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_I_priority,annual,,,2010,Part_I,1123,965,1780,0.8593054318788959,0.8377420768251131,0.87841900660234,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2010,Part_II,657,29,1780,0.0441400304414003,0.030906564640661813,0.06267330689320566,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,2010,included_all,1780,994,1780,0.5584269662921348,0.5352569842491082,0.5813453062579809,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_I_priority,annual,,,2011,Part_I,1151,973,1808,0.845351867940921,0.823318018907057,0.8650881635414338,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2011,Part_II,657,31,1808,0.0471841704718417,0.03343750647989905,0.06619525405875061,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,2011,included_all,1808,1004,1808,0.5553097345132744,0.5323106687663177,0.578074265316258,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_I_priority,annual,,,2012,Part_I,1116,977,1746,0.8754480286738351,0.8547771001444776,0.8935431137566029,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2012,Part_II,630,48,1746,0.0761904761904762,0.05794614467649288,0.09957188673542529,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,2012,included_all,1746,1025,1746,0.5870561282932417,0.5637949394080431,0.6099350853708194,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_I_priority,annual,,,2013,Part_I,1066,912,1701,0.8555347091932458,0.8331531185861533,0.8753630767345603,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2013,Part_II,635,36,1701,0.05669291338582677,0.0412289799190672,0.07748820377890067,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,2013,included_all,1701,948,1701,0.5573192239858906,0.5336119064164113,0.5807682308046116,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_I_priority,annual,,,2014,Part_I,1101,964,1692,0.8755676657584015,0.854755094658641,0.893768590253345,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2014,Part_II,591,30,1692,0.050761421319796954,0.03578546628336034,0.07153970057246595,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,2014,included_all,1692,994,1692,0.5874704491725768,0.5638412704743248,0.610703347750684,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_I_priority,annual,,,2015,Part_I,1200,1040,1772,0.8666666666666667,0.8462584724428325,0.8847347937818285,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2015,Part_II,572,39,1772,0.06818181818181818,0.05027476617510234,0.0918502190392359,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,2015,included_all,1772,1079,1772,0.6089164785553047,0.5859831121153685,0.6313786338235601,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_I_priority,annual,,,2016,Part_I,1157,992,1742,0.857389801210026,0.8360571084390876,0.8763571439258773,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2016,Part_II,585,39,1742,0.06666666666666667,0.049148742020732945,0.0898385143871338,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,2016,included_all,1742,1031,1742,0.5918484500574053,0.5685906491037471,0.6147020538981384,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_I_priority,annual,,,2017,Part_I,1097,946,1668,0.8623518687329079,0.8406958945703233,0.8814789414425437,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2017,Part_II,571,27,1668,0.047285464098073555,0.03269822453792171,0.06792336065420718,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,2017,included_all,1668,973,1668,0.5833333333333334,0.5595089244550656,0.6067747853627897,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_I_priority,annual,,,2018,Part_I,1089,930,1620,0.8539944903581267,0.8317777942955794,0.8737225267043218,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2018,Part_II,531,39,1620,0.07344632768361582,0.05419042197074493,0.09882961316481009,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,2018,included_all,1620,969,1620,0.5981481481481481,0.574068936459787,0.6217629892941875,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_I_priority,annual,,,2019,Part_I,1189,1014,1794,0.8528174936921783,0.831543783148738,0.8718187582819393,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2019,Part_II,604,34,1794,0.056291390728476824,0.04055937718059835,0.07763173627204045,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2019,entity_no_K80,1,1,1794,1.0,0.20654931437723742,1.0,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,2019,included_all,1794,1049,1794,0.584726867335563,0.5617670984689374,0.6073245633728198,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_I_priority,annual,,,2020,Part_I,1207,1011,1906,0.8376139188069595,0.8157421499658836,0.8573434914803334,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2020,Part_II,699,41,1906,0.058655221745350504,0.04352887186837537,0.07860601039188361,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,2020,included_all,1906,1052,1906,0.5519412381951732,0.5295335158543095,0.5741400111212033,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_I_priority,annual,,,2021,Part_I,1305,1121,2034,0.8590038314176245,0.8390666340446769,0.8768336712866238,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2021,Part_II,729,51,2034,0.06995884773662552,0.05360818480251435,0.09081794931797703,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,2021,included_all,2034,1172,2034,0.576204523107178,0.5546053491524149,0.5975163964613965,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_I_priority,annual,,,2022,Part_I,1388,1184,2205,0.8530259365994236,0.8334243034336443,0.870678878569824,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2022,Part_II,816,44,2205,0.05392156862745098,0.040410415064090786,0.07161302292208283,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2022,entity_no_K80,1,1,2205,1.0,0.20654931437723742,1.0,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,2022,included_all,2205,1229,2205,0.5573696145124717,0.536555882359061,0.5779838004188407,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_I_priority,annual,,,2023,Part_I,1260,1058,2057,0.8396825396825397,0.8183958868222854,0.858904255553756,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2023,Part_II,797,59,2057,0.0740276035131744,0.057823096283047645,0.09431870092125273,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,2023,included_all,2057,1117,2057,0.5430238210986874,0.521436365855208,0.5644508814351719,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_I_priority,annual,,,2024,Part_I,1274,1112,2065,0.8728414442700158,0.8534199706198784,0.8900212391188826,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule,Part_I_priority,annual,,,2024,Part_II,791,49,2065,0.061946902654867256,0.04717245539133176,0.08095556019028653,,,,,,,,,,,0,0,,,Both assigned to Part I; all A retained.
+part_rule_overall,Part_I_priority,annual,,,2024,included_all,2065,1161,2065,0.5622276029055691,0.5407338595177733,0.5834902558218807,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,1999,Part_I,1215,1015,2401,0.8353909465020576,0.81348871973099,0.8551790500612878,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,1999,Part_II,1186,83,2401,0.0699831365935919,0.05680921935590419,0.08593371295797879,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,1999,included_all,2401,1098,2401,0.4573094543940025,0.4374668512790624,0.477288444024051,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,2000,Part_I,1204,1015,2316,0.8430232558139535,0.8213878793769863,0.86247670729359,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2000,Part_II,1112,58,2316,0.052158273381294966,0.040563282512911934,0.06683679468743843,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,2000,included_all,2316,1073,2316,0.4632987910189983,0.44306789669181,0.48365123346529126,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,2001,Part_I,1269,1060,2389,0.8353033884948778,0.8138900209237837,0.854692852538292,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2001,Part_II,1120,78,2389,0.06964285714285715,0.05615944525865947,0.0860683196686321,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,2001,included_all,2389,1138,2389,0.4763499372122227,0.456376593706232,0.4963992161647272,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,2002,Part_I,1191,994,2266,0.834592779177162,0.8124223721120295,0.8546117302923489,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2002,Part_II,1075,83,2266,0.07720930232558139,0.06271596129687756,0.09471352700472296,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,2002,included_all,2266,1077,2266,0.47528684907325686,0.4547844323205873,0.49587291444486037,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,2003,Part_I,1182,985,2211,0.8333333333333334,0.8110146929682663,0.8534923489626651,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2003,Part_II,1029,64,2211,0.062196307094266275,0.04900602658083651,0.07864324397732994,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,2003,included_all,2211,1049,2211,0.47444595205789236,0.45369427286130914,0.4952862740080964,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,2004,Part_I,1210,1017,2149,0.8404958677685951,0.818792327621539,0.8600442650917764,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2004,Part_II,939,70,2149,0.07454739084132056,0.05942574208681936,0.09313591870460469,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,2004,included_all,2149,1087,2149,0.5058166589111215,0.4846868235242071,0.5269257361919621,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,2005,Part_I,1151,985,2087,0.8557775847089487,0.8342975291633392,0.8748907267175587,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2005,Part_II,936,56,2087,0.05982905982905983,0.04635899648908445,0.07689738652476034,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,2005,included_all,2087,1041,2087,0.49880210828941063,0.47737262502394834,0.520235993277116,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,2006,Part_I,1096,943,1947,0.8604014598540146,0.8386219469995211,0.879663396459961,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2006,Part_II,851,67,1947,0.07873090481786134,0.06247110362111334,0.098776876806573,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,2006,included_all,1947,1010,1947,0.5187467899332306,0.4965380095765793,0.5408817405881161,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,2007,Part_I,1103,953,1870,0.8640072529465095,0.8425104511247382,0.8829773715446187,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2007,Part_II,767,67,1870,0.08735332464146023,0.06937167125457479,0.10944779576212793,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,2007,included_all,1870,1020,1870,0.5454545454545454,0.5228162016374261,0.5679065215682978,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,2008,Part_I,1214,1080,2034,0.8896210873146623,0.8707498220344135,0.9060343752420252,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2008,Part_II,820,56,2034,0.06829268292682927,0.052963690816523135,0.0876476581031075,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,2008,included_all,2034,1136,2034,0.5585054080629301,0.5368353100827341,0.5799549333239985,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,2009,Part_I,1106,931,1824,0.8417721518987342,0.819085421614714,0.8620929520994178,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2009,Part_II,718,57,1824,0.07938718662952646,0.06177741670071525,0.10147374791542799,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,2009,included_all,1824,988,1824,0.5416666666666666,0.5187368528275924,0.5644213441081904,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,2010,Part_I,1113,958,1780,0.8607367475292004,0.8391529624330135,0.8798389711650744,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2010,Part_II,667,36,1780,0.053973013493253376,0.03923811568170194,0.07381610573451708,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,2010,included_all,1780,994,1780,0.5584269662921348,0.5352569842491082,0.5813453062579809,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,2011,Part_I,1138,960,1808,0.843585237258348,0.8213284165348131,0.8635302334634606,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2011,Part_II,670,44,1808,0.06567164179104477,0.049281633314814215,0.08701371868301035,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,2011,included_all,1808,1004,1808,0.5553097345132744,0.5323106687663177,0.578074265316258,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,2012,Part_I,1107,970,1746,0.8762420957542909,0.8555321960784968,0.8943497905772231,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2012,Part_II,639,55,1746,0.08607198748043818,0.06672368784641013,0.11036734643370401,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,2012,included_all,1746,1025,1746,0.5870561282932417,0.5637949394080431,0.6099350853708194,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,2013,Part_I,1055,904,1701,0.8568720379146919,0.8344439104350727,0.8767107140151909,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2013,Part_II,646,44,1701,0.06811145510835913,0.051126681861706616,0.09020234166253,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,2013,included_all,1701,948,1701,0.5573192239858906,0.5336119064164113,0.5807682308046116,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,2014,Part_I,1091,954,1692,0.8744271310724107,0.8534411883828571,0.8927855766138115,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2014,Part_II,601,40,1692,0.06655574043261231,0.04925488554949642,0.0893623629839726,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,2014,included_all,1692,994,1692,0.5874704491725768,0.5638412704743248,0.610703347750684,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,2015,Part_I,1191,1034,1772,0.8681780016792612,0.8477759226963308,0.886212669284397,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2015,Part_II,581,45,1772,0.0774526678141136,0.05838691219534192,0.10206932326019692,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,2015,included_all,1772,1079,1772,0.6089164785553047,0.5859831121153685,0.6313786338235601,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,2016,Part_I,1142,979,1742,0.8572679509632224,0.8357810942597974,0.8763593102598919,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2016,Part_II,600,52,1742,0.08666666666666667,0.06670240369849674,0.11188993580616254,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,2016,included_all,1742,1031,1742,0.5918484500574053,0.5685906491037471,0.6147020538981384,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,2017,Part_I,1090,939,1668,0.8614678899082568,0.8396868775382086,0.8807100260949452,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2017,Part_II,578,34,1668,0.058823529411764705,0.042397042486903666,0.08107552505117799,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,2017,included_all,1668,973,1668,0.5833333333333334,0.5595089244550656,0.6067747853627897,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,2018,Part_I,1081,922,1620,0.8529139685476411,0.8305505408213558,0.8727780366368099,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2018,Part_II,539,47,1620,0.08719851576994433,0.0662075404919085,0.11403193317182303,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,2018,included_all,1620,969,1620,0.5981481481481481,0.574068936459787,0.6217629892941875,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,2019,Part_I,1173,1000,1794,0.8525149190110827,0.8310727631355018,0.8716557087427168,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2019,Part_II,620,48,1794,0.07741935483870968,0.05888877596234115,0.10115422440097836,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2019,entity_no_K80,1,1,1794,1.0,0.20654931437723742,1.0,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,2019,included_all,1794,1049,1794,0.584726867335563,0.5617670984689374,0.6073245633728198,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,2020,Part_I,1192,998,1906,0.837248322147651,0.8152150309952031,0.8571148954089898,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2020,Part_II,714,54,1906,0.07563025210084033,0.058426226479487954,0.0973762246695901,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,2020,included_all,1906,1052,1906,0.5519412381951732,0.5295335158543095,0.5741400111212033,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,2021,Part_I,1301,1117,2034,0.8585703305149884,0.8385780429342553,0.8764513529306173,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2021,Part_II,733,55,2034,0.07503410641200546,0.05809916700566616,0.09640009122404315,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,2021,included_all,2034,1172,2034,0.576204523107178,0.5546053491524149,0.5975163964613965,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,2022,Part_I,1369,1166,2205,0.8517165814463111,0.8319078007003948,0.8695570289145568,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2022,Part_II,835,62,2205,0.07425149700598803,0.058352206611132336,0.09405020206383133,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2022,entity_no_K80,1,1,2205,1.0,0.20654931437723742,1.0,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,2022,included_all,2205,1229,2205,0.5573696145124717,0.536555882359061,0.5779838004188407,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,2023,Part_I,1251,1051,2057,0.8401278976818545,0.8187825242620117,0.8593907971707799,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2023,Part_II,806,66,2057,0.08188585607940446,0.06488100636679718,0.10285732974964333,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,2023,included_all,2057,1117,2057,0.5430238210986874,0.521436365855208,0.5644508814351719,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Part_II_priority,annual,,,2024,Part_I,1254,1094,2065,0.8724082934609251,0.8527982307227627,0.889743679825872,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule,Part_II_priority,annual,,,2024,Part_II,811,67,2065,0.08261405672009864,0.06557732807147967,0.10358620347021391,,,,,,,,,,,0,0,,,Both assigned to Part II; all A retained.
+part_rule_overall,Part_II_priority,annual,,,2024,included_all,2065,1161,2065,0.5622276029055691,0.5407338595177733,0.5834902558218807,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,1999,Both,15,14,2401,0.9333333333333333,0.7018347012621998,0.9881331045067316,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,1999,Part_II_only,1171,69,2401,0.05892399658411614,0.04682387095601707,0.07390855447530417,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,1999,Part_I_only,1215,1015,2401,0.8353909465020576,0.81348871973099,0.8551790500612878,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,1999,included_all,2401,1098,2401,0.4573094543940025,0.4374668512790624,0.477288444024051,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,2000,Both,13,9,2316,0.6923076923076923,0.42369343180549035,0.8731929634428949,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2000,Part_II_only,1099,49,2316,0.044585987261146494,0.03388834468374071,0.05845626025122125,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2000,Part_I_only,1204,1015,2316,0.8430232558139535,0.8213878793769863,0.86247670729359,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,2000,included_all,2316,1073,2316,0.4632987910189983,0.44306789669181,0.48365123346529126,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,2001,Both,22,18,2389,0.8181818181818182,0.6148339256287346,0.9269311541657795,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2001,Part_II_only,1098,60,2389,0.0546448087431694,0.04268772575420833,0.06970726340624875,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2001,Part_I_only,1269,1060,2389,0.8353033884948778,0.8138900209237837,0.854692852538292,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,2001,included_all,2389,1138,2389,0.4763499372122227,0.456376593706232,0.4963992161647272,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,2002,Both,17,15,2266,0.8823529411764706,0.6566364940511412,0.9671202262362074,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2002,Part_II_only,1058,68,2266,0.06427221172022685,0.051014138675970794,0.08068297830795758,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2002,Part_I_only,1191,994,2266,0.834592779177162,0.8124223721120295,0.8546117302923489,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,2002,included_all,2266,1077,2266,0.47528684907325686,0.4547844323205873,0.49587291444486037,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,2003,Both,12,10,2211,0.8333333333333334,0.5519691377470266,0.9530348578161463,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2003,Part_II_only,1017,54,2211,0.05309734513274336,0.040921712300837645,0.06863639572300442,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2003,Part_I_only,1182,985,2211,0.8333333333333334,0.8110146929682663,0.8534923489626651,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,2003,included_all,2211,1049,2211,0.47444595205789236,0.45369427286130914,0.4952862740080964,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,2004,Both,17,15,2149,0.8823529411764706,0.6566364940511412,0.9671202262362074,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2004,Part_II_only,922,55,2149,0.0596529284164859,0.046115012763751025,0.07684497972319332,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2004,Part_I_only,1210,1017,2149,0.8404958677685951,0.818792327621539,0.8600442650917764,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,2004,included_all,2149,1087,2149,0.5058166589111215,0.4846868235242071,0.5269257361919621,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,2005,Both,11,10,2087,0.9090909090909091,0.6226415635484044,0.9837678271141151,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2005,Part_II_only,925,46,2087,0.04972972972972973,0.03748839836244382,0.06569547431091796,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2005,Part_I_only,1151,985,2087,0.8557775847089487,0.8342975291633392,0.8748907267175587,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,2005,included_all,2087,1041,2087,0.49880210828941063,0.47737262502394834,0.520235993277116,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,2006,Both,10,9,1947,0.9,0.5958499732047616,0.9821237869049271,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2006,Part_II_only,841,58,1947,0.06896551724137931,0.05372663164293609,0.0881241944138008,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2006,Part_I_only,1096,943,1947,0.8604014598540146,0.8386219469995211,0.879663396459961,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,2006,included_all,1947,1010,1947,0.5187467899332306,0.4965380095765793,0.5408817405881161,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,2007,Both,17,16,1870,0.9411764705882353,0.7301796936242461,0.9895395990150025,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2007,Part_II_only,750,51,1870,0.068,0.05209614530686504,0.08830666430547972,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2007,Part_I_only,1103,953,1870,0.8640072529465095,0.8425104511247382,0.8829773715446187,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,2007,included_all,1870,1020,1870,0.5454545454545454,0.5228162016374261,0.5679065215682978,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,2008,Both,12,10,2034,0.8333333333333334,0.5519691377470266,0.9530348578161463,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2008,Part_II_only,808,46,2034,0.05693069306930693,0.04295104176070542,0.07510336132424714,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2008,Part_I_only,1214,1080,2034,0.8896210873146623,0.8707498220344135,0.9060343752420252,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,2008,included_all,2034,1136,2034,0.5585054080629301,0.5368353100827341,0.5799549333239985,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,2009,Both,16,14,1824,0.875,0.6397717273424132,0.9650225122567595,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2009,Part_II_only,702,43,1824,0.06125356125356125,0.0457906957137784,0.08149207819808482,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2009,Part_I_only,1106,931,1824,0.8417721518987342,0.819085421614714,0.8620929520994178,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,2009,included_all,1824,988,1824,0.5416666666666666,0.5187368528275924,0.5644213441081904,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,2010,Both,10,7,1780,0.7,0.3967781474611453,0.8922087325936988,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2010,Part_II_only,657,29,1780,0.0441400304414003,0.030906564640661813,0.06267330689320566,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2010,Part_I_only,1113,958,1780,0.8607367475292004,0.8391529624330135,0.8798389711650744,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,2010,included_all,1780,994,1780,0.5584269662921348,0.5352569842491082,0.5813453062579809,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,2011,Both,13,13,1808,1.0,0.7719046276458015,1.0,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2011,Part_II_only,657,31,1808,0.0471841704718417,0.03343750647989905,0.06619525405875061,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2011,Part_I_only,1138,960,1808,0.843585237258348,0.8213284165348131,0.8635302334634606,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,2011,included_all,1808,1004,1808,0.5553097345132744,0.5323106687663177,0.578074265316258,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,2012,Both,9,7,1746,0.7777777777777778,0.45258896910698887,0.9367748928821533,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2012,Part_II_only,630,48,1746,0.0761904761904762,0.05794614467649288,0.09957188673542529,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2012,Part_I_only,1107,970,1746,0.8762420957542909,0.8555321960784968,0.8943497905772231,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,2012,included_all,1746,1025,1746,0.5870561282932417,0.5637949394080431,0.6099350853708194,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,2013,Both,11,8,1701,0.7272727272727273,0.43435469882387095,0.9025394070997511,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2013,Part_II_only,635,36,1701,0.05669291338582677,0.0412289799190672,0.07748820377890067,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2013,Part_I_only,1055,904,1701,0.8568720379146919,0.8344439104350727,0.8767107140151909,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,2013,included_all,1701,948,1701,0.5573192239858906,0.5336119064164113,0.5807682308046116,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,2014,Both,10,10,1692,1.0,0.7224672001371106,0.9999999999999999,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2014,Part_II_only,591,30,1692,0.050761421319796954,0.03578546628336034,0.07153970057246595,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2014,Part_I_only,1091,954,1692,0.8744271310724107,0.8534411883828571,0.8927855766138115,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,2014,included_all,1692,994,1692,0.5874704491725768,0.5638412704743248,0.610703347750684,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,2015,Both,9,6,1772,0.6666666666666666,0.35420213558039626,0.8794161816130891,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2015,Part_II_only,572,39,1772,0.06818181818181818,0.05027476617510234,0.0918502190392359,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2015,Part_I_only,1191,1034,1772,0.8681780016792612,0.8477759226963308,0.886212669284397,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,2015,included_all,1772,1079,1772,0.6089164785553047,0.5859831121153685,0.6313786338235601,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,2016,Both,15,13,1742,0.8666666666666667,0.6211801716767764,0.9626387408969347,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2016,Part_II_only,585,39,1742,0.06666666666666667,0.049148742020732945,0.0898385143871338,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2016,Part_I_only,1142,979,1742,0.8572679509632224,0.8357810942597974,0.8763593102598919,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,2016,included_all,1742,1031,1742,0.5918484500574053,0.5685906491037471,0.6147020538981384,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,2017,Both,7,7,1668,1.0,0.6456695649333126,1.0,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2017,Part_II_only,571,27,1668,0.047285464098073555,0.03269822453792171,0.06792336065420718,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2017,Part_I_only,1090,939,1668,0.8614678899082568,0.8396868775382086,0.8807100260949452,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,2017,included_all,1668,973,1668,0.5833333333333334,0.5595089244550656,0.6067747853627897,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,2018,Both,8,8,1620,1.0,0.6755924351161198,1.0,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2018,Part_II_only,531,39,1620,0.07344632768361582,0.05419042197074493,0.09882961316481009,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2018,Part_I_only,1081,922,1620,0.8529139685476411,0.8305505408213558,0.8727780366368099,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,2018,included_all,1620,969,1620,0.5981481481481481,0.574068936459787,0.6217629892941875,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,2019,Both,16,14,1794,0.875,0.6397717273424132,0.9650225122567595,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2019,Part_II_only,604,34,1794,0.056291390728476824,0.04055937718059835,0.07763173627204045,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2019,Part_I_only,1173,1000,1794,0.8525149190110827,0.8310727631355018,0.8716557087427168,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2019,entity_no_K80,1,1,1794,1.0,0.20654931437723742,1.0,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,2019,included_all,1794,1049,1794,0.584726867335563,0.5617670984689374,0.6073245633728198,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,2020,Both,15,13,1906,0.8666666666666667,0.6211801716767764,0.9626387408969347,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2020,Part_II_only,699,41,1906,0.058655221745350504,0.04352887186837537,0.07860601039188361,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2020,Part_I_only,1192,998,1906,0.837248322147651,0.8152150309952031,0.8571148954089898,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,2020,included_all,1906,1052,1906,0.5519412381951732,0.5295335158543095,0.5741400111212033,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,2021,Both,4,4,2034,1.0,0.5101091635454027,1.0,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2021,Part_II_only,729,51,2034,0.06995884773662552,0.05360818480251435,0.09081794931797703,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2021,Part_I_only,1301,1117,2034,0.8585703305149884,0.8385780429342553,0.8764513529306173,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,2021,included_all,2034,1172,2034,0.576204523107178,0.5546053491524149,0.5975163964613965,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,2022,Both,19,18,2205,0.9473684210526315,0.753612688331012,0.9906480059376995,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2022,Part_II_only,816,44,2205,0.05392156862745098,0.040410415064090786,0.07161302292208283,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2022,Part_I_only,1369,1166,2205,0.8517165814463111,0.8319078007003948,0.8695570289145568,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2022,entity_no_K80,1,1,2205,1.0,0.20654931437723742,1.0,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,2022,included_all,2205,1229,2205,0.5573696145124717,0.536555882359061,0.5779838004188407,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,2023,Both,9,7,2057,0.7777777777777778,0.45258896910698887,0.9367748928821533,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2023,Part_II_only,797,59,2057,0.0740276035131744,0.057823096283047645,0.09431870092125273,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2023,Part_I_only,1251,1051,2057,0.8401278976818545,0.8187825242620117,0.8593907971707799,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,2023,included_all,2057,1117,2057,0.5430238210986874,0.521436365855208,0.5644508814351719,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_separate,annual,,,2024,Both,20,18,2065,0.9,0.6989663547715128,0.9721335187862318,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2024,Part_II_only,791,49,2065,0.061946902654867256,0.04717245539133176,0.08095556019028653,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule,Both_separate,annual,,,2024,Part_I_only,1254,1094,2065,0.8724082934609251,0.8527982307227627,0.889743679825872,,,,,,,,,,,0,0,,,"Part I-only, Part II-only, Both and entity-no-K80 are separate; all A retained."
+part_rule_overall,Both_separate,annual,,,2024,included_all,2065,1161,2065,0.5622276029055691,0.5407338595177733,0.5834902558218807,,,,,,,,,,,0,0,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,1999,Part_II_only,1171,69,2386,0.05892399658411614,0.04682387095601707,0.07390855447530417,,,,,,,,,,,15,14,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,1999,Part_I_only,1215,1015,2386,0.8353909465020576,0.81348871973099,0.8551790500612878,,,,,,,,,,,15,14,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,1999,included_all,2386,1084,2386,0.4543168482816429,0.4344277225189104,0.4743528372979842,,,,,,,,,,,15,14,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,2000,Part_II_only,1099,49,2303,0.044585987261146494,0.03388834468374071,0.05845626025122125,,,,,,,,,,,13,9,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2000,Part_I_only,1204,1015,2303,0.8430232558139535,0.8213878793769863,0.86247670729359,,,,,,,,,,,13,9,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,2000,included_all,2303,1064,2303,0.46200607902735563,0.4417245285154331,0.48241416799929676,,,,,,,,,,,13,9,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,2001,Part_II_only,1098,60,2367,0.0546448087431694,0.04268772575420833,0.06970726340624875,,,,,,,,,,,22,18,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2001,Part_I_only,1269,1060,2367,0.8353033884948778,0.8138900209237837,0.854692852538292,,,,,,,,,,,22,18,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,2001,included_all,2367,1120,2367,0.47317279256442757,0.453118770087996,0.4933137509363443,,,,,,,,,,,22,18,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,2002,Part_II_only,1058,68,2249,0.06427221172022685,0.051014138675970794,0.08068297830795758,,,,,,,,,,,17,15,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2002,Part_I_only,1191,994,2249,0.834592779177162,0.8124223721120295,0.8546117302923489,,,,,,,,,,,17,15,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,2002,included_all,2249,1062,2249,0.4722098710538017,0.45164231720390297,0.49287219822700784,,,,,,,,,,,17,15,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,2003,Part_II_only,1017,54,2199,0.05309734513274336,0.040921712300837645,0.06863639572300442,,,,,,,,,,,12,10,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2003,Part_I_only,1182,985,2199,0.8333333333333334,0.8110146929682663,0.8534923489626651,,,,,,,,,,,12,10,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,2003,included_all,2199,1039,2199,0.472487494315598,0.45168724387465736,0.49338370096547735,,,,,,,,,,,12,10,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,2004,Part_II_only,922,55,2132,0.0596529284164859,0.046115012763751025,0.07684497972319332,,,,,,,,,,,17,15,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2004,Part_I_only,1210,1017,2132,0.8404958677685951,0.818792327621539,0.8600442650917764,,,,,,,,,,,17,15,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,2004,included_all,2132,1072,2132,0.5028142589118199,0.48160476143424674,0.5240136331101807,,,,,,,,,,,17,15,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,2005,Part_II_only,925,46,2076,0.04972972972972973,0.03748839836244382,0.06569547431091796,,,,,,,,,,,11,10,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2005,Part_I_only,1151,985,2076,0.8557775847089487,0.8342975291633392,0.8748907267175587,,,,,,,,,,,11,10,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,2005,included_all,2076,1031,2076,0.49662813102119463,0.475146500993845,0.5181222167054654,,,,,,,,,,,11,10,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,2006,Part_II_only,841,58,1937,0.06896551724137931,0.05372663164293609,0.0881241944138008,,,,,,,,,,,10,9,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2006,Part_I_only,1096,943,1937,0.8604014598540146,0.8386219469995211,0.879663396459961,,,,,,,,,,,10,9,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,2006,included_all,1937,1001,1937,0.5167785234899329,0.4945132960669681,0.5389773322914636,,,,,,,,,,,10,9,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,2007,Part_II_only,750,51,1853,0.068,0.05209614530686504,0.08830666430547972,,,,,,,,,,,17,16,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2007,Part_I_only,1103,953,1853,0.8640072529465095,0.8425104511247382,0.8829773715446187,,,,,,,,,,,17,16,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,2007,included_all,1853,1004,1853,0.5418240690771722,0.5190749745469555,0.5644001112034687,,,,,,,,,,,17,16,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,2008,Part_II_only,808,46,2022,0.05693069306930693,0.04295104176070542,0.07510336132424714,,,,,,,,,,,12,10,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2008,Part_I_only,1214,1080,2022,0.8896210873146623,0.8707498220344135,0.9060343752420252,,,,,,,,,,,12,10,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,2008,included_all,2022,1126,2022,0.5568743818001978,0.5351347274409474,0.5783983424834336,,,,,,,,,,,12,10,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,2009,Part_II_only,702,43,1808,0.06125356125356125,0.0457906957137784,0.08149207819808482,,,,,,,,,,,16,14,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2009,Part_I_only,1106,931,1808,0.8417721518987342,0.819085421614714,0.8620929520994178,,,,,,,,,,,16,14,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,2009,included_all,1808,974,1808,0.5387168141592921,0.5156809133971902,0.5615885404606128,,,,,,,,,,,16,14,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,2010,Part_II_only,657,29,1770,0.0441400304414003,0.030906564640661813,0.06267330689320566,,,,,,,,,,,10,7,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2010,Part_I_only,1113,958,1770,0.8607367475292004,0.8391529624330135,0.8798389711650744,,,,,,,,,,,10,7,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,2010,included_all,1770,987,1770,0.5576271186440678,0.534388953617015,0.5806156872913251,,,,,,,,,,,10,7,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,2011,Part_II_only,657,31,1795,0.0471841704718417,0.03343750647989905,0.06619525405875061,,,,,,,,,,,13,13,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2011,Part_I_only,1138,960,1795,0.843585237258348,0.8213284165348131,0.8635302334634606,,,,,,,,,,,13,13,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,2011,included_all,1795,991,1795,0.5520891364902507,0.528997523014671,0.5749582753593535,,,,,,,,,,,13,13,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,2012,Part_II_only,630,48,1737,0.0761904761904762,0.05794614467649288,0.09957188673542529,,,,,,,,,,,9,7,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2012,Part_I_only,1107,970,1737,0.8762420957542909,0.8555321960784968,0.8943497905772231,,,,,,,,,,,9,7,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,2012,included_all,1737,1018,1737,0.5860679332181923,0.5627402330682102,0.6090157866916551,,,,,,,,,,,9,7,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,2013,Part_II_only,635,36,1690,0.05669291338582677,0.0412289799190672,0.07748820377890067,,,,,,,,,,,11,8,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2013,Part_I_only,1055,904,1690,0.8568720379146919,0.8344439104350727,0.8767107140151909,,,,,,,,,,,11,8,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,2013,included_all,1690,940,1690,0.5562130177514792,0.5324249260533507,0.5797461387240364,,,,,,,,,,,11,8,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,2014,Part_II_only,591,30,1682,0.050761421319796954,0.03578546628336034,0.07153970057246595,,,,,,,,,,,10,10,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2014,Part_I_only,1091,954,1682,0.8744271310724107,0.8534411883828571,0.8927855766138115,,,,,,,,,,,10,10,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,2014,included_all,1682,984,1682,0.5850178359096314,0.5613032205268718,0.6083449978768133,,,,,,,,,,,10,10,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,2015,Part_II_only,572,39,1763,0.06818181818181818,0.05027476617510234,0.0918502190392359,,,,,,,,,,,9,6,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2015,Part_I_only,1191,1034,1763,0.8681780016792612,0.8477759226963308,0.886212669284397,,,,,,,,,,,9,6,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,2015,included_all,1763,1073,1763,0.608621667612025,0.5856269429284027,0.6311440628049807,,,,,,,,,,,9,6,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,2016,Part_II_only,585,39,1727,0.06666666666666667,0.049148742020732945,0.0898385143871338,,,,,,,,,,,15,13,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2016,Part_I_only,1142,979,1727,0.8572679509632224,0.8357810942597974,0.8763593102598919,,,,,,,,,,,15,13,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,2016,included_all,1727,1018,1727,0.5894614939200926,0.5660868577074943,0.6124390254259825,,,,,,,,,,,15,13,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,2017,Part_II_only,571,27,1661,0.047285464098073555,0.03269822453792171,0.06792336065420718,,,,,,,,,,,7,7,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2017,Part_I_only,1090,939,1661,0.8614678899082568,0.8396868775382086,0.8807100260949452,,,,,,,,,,,7,7,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,2017,included_all,1661,966,1661,0.5815773630343167,0.5576924959415398,0.6050857665555784,,,,,,,,,,,7,7,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,2018,Part_II_only,531,39,1612,0.07344632768361582,0.05419042197074493,0.09882961316481009,,,,,,,,,,,8,8,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2018,Part_I_only,1081,922,1612,0.8529139685476411,0.8305505408213558,0.8727780366368099,,,,,,,,,,,8,8,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,2018,included_all,1612,961,1612,0.5961538461538461,0.5720000461880056,0.6198504588895473,,,,,,,,,,,8,8,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,2019,Part_II_only,604,34,1778,0.056291390728476824,0.04055937718059835,0.07763173627204045,,,,,,,,,,,16,14,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2019,Part_I_only,1173,1000,1778,0.8525149190110827,0.8310727631355018,0.8716557087427168,,,,,,,,,,,16,14,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2019,entity_no_K80,1,1,1778,1.0,0.20654931437723742,1.0,,,,,,,,,,,16,14,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,2019,included_all,1778,1035,1778,0.5821147356580427,0.5590364458917373,0.604838964321952,,,,,,,,,,,16,14,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,2020,Part_II_only,699,41,1891,0.058655221745350504,0.04352887186837537,0.07860601039188361,,,,,,,,,,,15,13,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2020,Part_I_only,1192,998,1891,0.837248322147651,0.8152150309952031,0.8571148954089898,,,,,,,,,,,15,13,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,2020,included_all,1891,1039,1891,0.5494447382337387,0.5269417111147721,0.5717472842782169,,,,,,,,,,,15,13,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,2021,Part_II_only,729,51,2030,0.06995884773662552,0.05360818480251435,0.09081794931797703,,,,,,,,,,,4,4,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2021,Part_I_only,1301,1117,2030,0.8585703305149884,0.8385780429342553,0.8764513529306173,,,,,,,,,,,4,4,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,2021,included_all,2030,1168,2030,0.5753694581280788,0.5537449352171141,0.5967092698896258,,,,,,,,,,,4,4,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,2022,Part_II_only,816,44,2186,0.05392156862745098,0.040410415064090786,0.07161302292208283,,,,,,,,,,,19,18,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2022,Part_I_only,1369,1166,2186,0.8517165814463111,0.8319078007003948,0.8695570289145568,,,,,,,,,,,19,18,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2022,entity_no_K80,1,1,2186,1.0,0.20654931437723742,1.0,,,,,,,,,,,19,18,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,2022,included_all,2186,1211,2186,0.5539798719121684,0.5330656711796526,0.5747046877426294,,,,,,,,,,,19,18,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,2023,Part_II_only,797,59,2048,0.0740276035131744,0.057823096283047645,0.09431870092125273,,,,,,,,,,,9,7,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2023,Part_I_only,1251,1051,2048,0.8401278976818545,0.8187825242620117,0.8593907971707799,,,,,,,,,,,9,7,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,2023,included_all,2048,1110,2048,0.5419921875,0.5203553926290159,0.5634717467732934,,,,,,,,,,,9,7,,,Overall UCF over strategy-defined included A records.
+part_rule,Both_excluded,annual,,,2024,Part_II_only,791,49,2045,0.061946902654867256,0.04717245539133176,0.08095556019028653,,,,,,,,,,,20,18,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule,Both_excluded,annual,,,2024,Part_I_only,1254,1094,2045,0.8724082934609251,0.8527982307227627,0.889743679825872,,,,,,,,,,,20,18,,,Both records excluded from Part-stratified denominator; other A retained.
+part_rule_overall,Both_excluded,annual,,,2024,included_all,2045,1143,2045,0.5589242053789731,0.5373140100776115,0.5803134417500759,,,,,,,,,,,20,18,,,Overall UCF over strategy-defined included A records.
+part_rule_kitagawa,Part_I_priority,1999_vs_2024,1999,2024,,Part_I,1230,1029,2401,,,,0.51228654727197,0.6169491525423729,0.8365853658536585,0.8728414442700158,0.08945653173330909,0.020470829041509438,0.10491814851156656,0.0831312001254449,0.021786948386121725,-7.632783294297951e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+part_rule_kitagawa,Part_I_priority,1999_vs_2024,1999,2024,,Part_II,1171,69,2401,,,,0.48771345272802996,0.38305084745762713,0.05892399658411614,0.061946902654867256,-0.0063253316078641765,0.0013161193446122863,0.10491814851156656,0.0831312001254449,0.021786948386121725,-7.632783294297951e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+part_rule_kitagawa_total,Part_I_priority,1999_vs_2024,1999,2024,,TOTAL,2401,1098,2401,,,,,,0.4573094543940025,0.5622276029055691,,,0.10491814851156656,0.0831312001254449,0.021786948386121725,-7.632783294297951e-17,,,,,TOTAL row is endpoint UCF change and identity check.
+part_rule_kitagawa,Part_I_priority,2018_vs_2024,2018,2024,,Part_I,1089,930,1620,,,,0.6722222222222223,0.6169491525423729,0.8539944903581267,0.8728414442700158,-0.04772376147018455,0.012148476742357495,-0.03592054524257904,-0.04398196174284511,0.00806141650026602,5.377642775528102e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+part_rule_kitagawa,Part_I_priority,2018_vs_2024,2018,2024,,Part_II,531,39,1620,,,,0.3277777777777778,0.38305084745762713,0.07344632768361582,0.061946902654867256,0.003741799727339434,-0.004087060242091475,-0.03592054524257904,-0.04398196174284511,0.00806141650026602,5.377642775528102e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+part_rule_kitagawa_total,Part_I_priority,2018_vs_2024,2018,2024,,TOTAL,1620,969,1620,,,,,,0.5981481481481481,0.5622276029055691,,,-0.03592054524257904,-0.04398196174284511,0.00806141650026602,5.377642775528102e-17,,,,,TOTAL row is endpoint UCF change and identity check.
+part_rule_kitagawa,Part_II_priority,1999_vs_2024,1999,2024,,Part_I,1215,1015,2401,,,,0.5060391503540191,0.6072639225181599,0.8353909465020576,0.8724082934609251,0.0864357944836728,0.020605763059441395,0.10491814851156656,0.07871248642063998,0.026205662090926632,-5.551115123125783e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+part_rule_kitagawa,Part_II_priority,1999_vs_2024,1999,2024,,Part_II,1186,83,2401,,,,0.49396084964598086,0.3927360774818402,0.0699831365935919,0.08261405672009864,-0.007723308063032827,0.005599899031485237,0.10491814851156656,0.07871248642063998,0.026205662090926632,-5.551115123125783e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+part_rule_kitagawa_total,Part_II_priority,1999_vs_2024,1999,2024,,TOTAL,2401,1098,2401,,,,,,0.4573094543940025,0.5622276029055691,,,0.10491814851156656,0.07871248642063998,0.026205662090926632,-5.551115123125783e-17,,,,,TOTAL row is endpoint UCF change and identity check.
+part_rule_kitagawa,Part_II_priority,2018_vs_2024,2018,2024,,Part_I,1081,922,1620,,,,0.667283950617284,0.6072639225181599,0.8529139685476411,0.8724082934609251,-0.05177694532289925,0.01242322517821868,-0.03592054524257904,-0.04668086763668078,0.010760322394101669,7.112366251504909e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+part_rule_kitagawa,Part_II_priority,2018_vs_2024,2018,2024,,Part_II,539,47,1620,,,,0.33271604938271604,0.3927360774818402,0.08719851576994433,0.08261405672009864,0.005096077686218468,-0.0016629027841170113,-0.03592054524257904,-0.04668086763668078,0.010760322394101669,7.112366251504909e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+part_rule_kitagawa_total,Part_II_priority,2018_vs_2024,2018,2024,,TOTAL,1620,969,1620,,,,,,0.5981481481481481,0.5622276029055691,,,-0.03592054524257904,-0.04668086763668078,0.010760322394101669,7.112366251504909e-17,,,,,TOTAL row is endpoint UCF change and identity check.
+part_rule_kitagawa,Both_separate,1999_vs_2024,1999,2024,,Both,15,14,2401,,,,0.006247396917950854,0.009685230024213076,0.9333333333333333,0.9,0.0031513470140737032,-0.00026554378236939873,0.10491814851156656,0.08326180988988233,0.021656338621684285,-5.551115123125783e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+part_rule_kitagawa,Both_separate,1999_vs_2024,1999,2024,,Part_II_only,1171,69,2401,,,,0.48771345272802996,0.38305084745762713,0.05892399658411614,0.061946902654867256,-0.0063253316078641765,0.0013161193446122863,0.10491814851156656,0.08326180988988233,0.021656338621684285,-5.551115123125783e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+part_rule_kitagawa,Both_separate,1999_vs_2024,1999,2024,,Part_I_only,1215,1015,2401,,,,0.5060391503540191,0.6072639225181599,0.8353909465020576,0.8724082934609251,0.0864357944836728,0.020605763059441395,0.10491814851156656,0.08326180988988233,0.021656338621684285,-5.551115123125783e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+part_rule_kitagawa_total,Both_separate,1999_vs_2024,1999,2024,,TOTAL,2401,1098,2401,,,,,,0.4573094543940025,0.5622276029055691,,,0.10491814851156656,0.08326180988988233,0.021656338621684285,-5.551115123125783e-17,,,,,TOTAL row is endpoint UCF change and identity check.
+part_rule_kitagawa,Both_separate,2018_vs_2024,2018,2024,,Both,8,8,1620,,,,0.0049382716049382715,0.009685230024213076,1.0,0.9,0.004509610498311063,-0.0007311750814575672,-0.03592054524257904,-0.04352553509724875,0.007604989854669638,7.112366251504909e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+part_rule_kitagawa,Both_separate,2018_vs_2024,2018,2024,,Part_II_only,531,39,1620,,,,0.3277777777777778,0.38305084745762713,0.07344632768361582,0.061946902654867256,0.003741799727339434,-0.004087060242091475,-0.03592054524257904,-0.04352553509724875,0.007604989854669638,7.112366251504909e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+part_rule_kitagawa,Both_separate,2018_vs_2024,2018,2024,,Part_I_only,1081,922,1620,,,,0.667283950617284,0.6072639225181599,0.8529139685476411,0.8724082934609251,-0.05177694532289925,0.01242322517821868,-0.03592054524257904,-0.04352553509724875,0.007604989854669638,7.112366251504909e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+part_rule_kitagawa_total,Both_separate,2018_vs_2024,2018,2024,,TOTAL,1620,969,1620,,,,,,0.5981481481481481,0.5622276029055691,,,-0.03592054524257904,-0.04352553509724875,0.007604989854669638,7.112366251504909e-17,,,,,TOTAL row is endpoint UCF change and identity check.
+part_rule_kitagawa,Both_excluded,1999_vs_2024,1999,2024,,Part_II_only,1171,69,2386,,,,0.49077954735959767,0.3867970660146699,0.05892399658411614,0.061946902654867256,-0.006284228012631118,0.0013264158360591404,0.10460735709733021,0.08250637329253517,0.022100983804795044,-3.469446951953614e-18,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+part_rule_kitagawa,Both_excluded,1999_vs_2024,1999,2024,,Part_I_only,1215,1015,2386,,,,0.5092204526404024,0.6132029339853301,0.8353909465020576,0.8724082934609251,0.08879060130516629,0.020774567968735905,0.10460735709733021,0.08250637329253517,0.022100983804795044,-3.469446951953614e-18,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+part_rule_kitagawa_total,Both_excluded,1999_vs_2024,1999,2024,,TOTAL,2386,1084,2386,,,,,,0.4543168482816429,0.5589242053789731,,,0.10460735709733021,0.08250637329253517,0.022100983804795044,-3.469446951953614e-18,,,,,TOTAL row is endpoint UCF change and identity check.
+part_rule_kitagawa,Both_excluded,2018_vs_2024,2018,2024,,Part_II_only,531,39,1612,,,,0.3294044665012407,0.3867970660146699,0.07344632768361582,0.061946902654867256,0.0038852847228230143,-0.004117952914320771,-0.03722964077487301,-0.04562508008470772,0.008395439309834652,5.898059818321144e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+part_rule_kitagawa,Both_excluded,2018_vs_2024,2018,2024,,Part_I_only,1081,922,1612,,,,0.6705955334987593,0.6132029339853301,0.8529139685476411,0.8724082934609251,-0.04951036480753073,0.012513392224155423,-0.03722964077487301,-0.04562508008470772,0.008395439309834652,5.898059818321144e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+part_rule_kitagawa_total,Both_excluded,2018_vs_2024,2018,2024,,TOTAL,1612,961,1612,,,,,,0.5961538461538461,0.5589242053789731,,,-0.03722964077487301,-0.04562508008470772,0.008395439309834652,5.898059818321144e-17,,,,,TOTAL row is endpoint UCF change and identity check.
+complexity,record_n,annual,,,1999,1,29,29,29,1.0,0.8830302015002593,1.0,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,1999,2,213,155,213,0.7276995305164319,0.6642800823645946,0.7830513482923498,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,1999,3-4,1063,566,1063,0.5324553151458138,0.5023982572939534,0.5622786442545429,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,1999,5-9,1041,337,1041,0.32372718539865514,0.2959969463725529,0.35275359190123395,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,1999,10+,55,11,55,0.2,0.11552214909761246,0.32364879157263937,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,1999,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2000,1,16,16,16,1.0,0.8063923194655636,1.0,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2000,2,223,169,223,0.757847533632287,0.6975631569570424,0.8093988446006237,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2000,3-4,976,522,976,0.5348360655737705,0.5034683611082446,0.5659306211330689,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2000,5-9,1057,359,1057,0.33964049195837276,0.3117167091152253,0.36872564428143,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2000,10+,44,7,44,0.1590909090909091,0.07926677012201248,0.2936620506224061,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2000,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2001,1,18,18,18,1.0,0.8241207763533424,1.0,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2001,2,205,152,205,0.7414634146341463,0.6774752892353783,0.7965685168127246,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2001,3-4,985,558,985,0.566497461928934,0.5353507789899632,0.5971274851760967,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2001,5-9,1119,405,1119,0.36193029490616624,0.33429033622388177,0.390514980169994,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2001,10+,62,5,62,0.08064516129032258,0.03493834698599271,0.17528571348612612,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2001,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2002,1,12,12,12,1.0,0.7575059933447591,1.0,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2002,2,205,159,205,0.775609756097561,0.7137334334267957,0.8273468704462914,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2002,3-4,944,530,944,0.5614406779661016,0.5296009249003103,0.5927824113849871,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2002,5-9,1053,370,1053,0.3513770180436847,0.3231298364933897,0.3807046437045487,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2002,10+,52,6,52,0.11538461538461539,0.053969692030872964,0.22971664344902112,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2002,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2003,1,15,15,15,1.0,0.7961166989641514,1.0,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2003,2,215,164,215,0.7627906976744186,0.7016317833531245,0.8147237582747788,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2003,3-4,913,500,913,0.547645125958379,0.5152274999573919,0.5796634969134363,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2003,5-9,1001,363,1001,0.3626373626373626,0.33343237390672287,0.3928926124023148,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2003,10+,67,7,67,0.1044776119402985,0.0515376976878286,0.20031283048738024,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2003,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2004,1,17,17,17,1.0,0.8156818649911483,1.0,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2004,2,205,157,205,0.7658536585365854,0.7033233821771928,0.8186036366030417,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2004,3-4,876,524,876,0.5981735159817352,0.5653469898581098,0.6301427751167554,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2004,5-9,994,382,994,0.3843058350100604,0.35456661779708054,0.414935843774493,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2004,10+,57,7,57,0.12280701754385964,0.06078060158998085,0.23246448435174003,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2004,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2005,1,20,20,20,1.0,0.8388748419471806,1.0,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2005,2,186,148,186,0.7956989247311828,0.7320503485373218,0.8473805127894201,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2005,3-4,861,501,861,0.5818815331010453,0.5486422543742939,0.61439340789873,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2005,5-9,961,362,961,0.37669094693028093,0.34660309712192505,0.40776069204434867,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2005,10+,59,10,59,0.1694915254237288,0.09475839349181052,0.2846322073648801,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2005,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2006,1,23,23,23,1.0,0.8568833815495732,1.0,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2006,2,175,129,175,0.7371428571428571,0.6673349547510149,0.7967632501468522,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2006,3-4,787,480,787,0.6099110546378653,0.5753777105811723,0.6433766276878132,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2006,5-9,893,370,893,0.4143337066069429,0.38245889115398823,0.4469423943294147,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2006,10+,69,8,69,0.11594202898550725,0.05993498142176159,0.2124574053031622,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2006,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2007,1,14,14,14,1.0,0.7846891972623642,1.0,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2007,2,164,135,164,0.823170731707317,0.7575829663998186,0.8739654051693317,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2007,3-4,726,467,726,0.6432506887052342,0.6077344644195207,0.6772589372106009,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2007,5-9,908,389,908,0.42841409691629956,0.396595333396914,0.4608360229617539,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2007,10+,58,15,58,0.25862068965517243,0.1634554520429696,0.38377385764740424,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2007,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2008,1,31,31,31,1.0,0.889744604539564,1.0,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2008,2,196,155,196,0.7908163265306123,0.7285590501696049,0.8418931506536761,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2008,3-4,816,516,816,0.6323529411764706,0.5987220570352105,0.6647435163095511,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2008,5-9,931,419,931,0.45005370569280345,0.41836704401235475,0.4821508468850817,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2008,10+,60,15,60,0.25,0.15776522530056675,0.3723207007704782,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2008,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2009,1,13,13,13,1.0,0.7719046276458015,1.0,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2009,2,170,144,170,0.8470588235294118,0.7853383475573469,0.8934410460377628,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2009,3-4,711,465,711,0.6540084388185654,0.6182997378935896,0.6880618997782014,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2009,5-9,871,360,871,0.4133180252583238,0.3810656862773307,0.4463316112815307,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2009,10+,59,6,59,0.1016949152542373,0.04744797246240465,0.2046381362623251,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2009,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2010,1,19,19,19,1.0,0.8318207759473837,1.0,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2010,2,156,120,156,0.7692307692307693,0.6971244980247122,0.8283962312012951,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2010,3-4,718,476,718,0.6629526462395543,0.6275908479578709,0.6965800584656763,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2010,5-9,830,366,830,0.44096385542168676,0.40753489785501845,0.4749367651172186,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2010,10+,57,13,57,0.22807017543859648,0.13841890498962192,0.35206011045673496,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2010,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2011,1,21,21,21,1.0,0.8453609810751531,1.0,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2011,2,191,162,191,0.8481675392670157,0.7904493146725555,0.8921569479011369,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2011,3-4,695,432,695,0.6215827338129496,0.5849503468845331,0.6568784654546633,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2011,5-9,847,379,847,0.4474616292798111,0.4142874989189854,0.48111016996828515,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2011,10+,54,10,54,0.18518518518518517,0.10382685542089136,0.3083594778215249,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2011,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2012,1,24,24,24,1.0,0.8620237953250198,1.0,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2012,2,157,132,157,0.8407643312101911,0.7754964057893508,0.8897549590299866,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2012,3-4,652,438,652,0.6717791411042945,0.6348216336601309,0.706724325332439,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2012,5-9,841,409,841,0.4863258026159334,0.45268496369047184,0.5200909935499487,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2012,10+,72,22,72,0.3055555555555556,0.21126630975195265,0.4195424795911143,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2012,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2013,1,28,28,28,1.0,0.8793566952341543,0.9999999999999998,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2013,2,153,111,153,0.7254901960784313,0.6499080175752308,0.7900266815713952,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2013,3-4,623,412,623,0.6613162118780096,0.6232659003425642,0.69738934217785,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2013,5-9,834,383,834,0.4592326139088729,0.42567561759373596,0.4931634428465131,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2013,10+,63,14,63,0.2222222222222222,0.13725007752613644,0.3391228111343367,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2013,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2014,1,17,17,17,1.0,0.8156818649911483,1.0,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2014,2,140,114,140,0.8142857142857143,0.741790228582,0.8699944454715117,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2014,3-4,677,453,677,0.6691285081240768,0.6328178690514293,0.7035306259369012,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2014,5-9,801,389,801,0.48564294631710364,0.45118241852519125,0.5202405247788217,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2014,10+,57,21,57,0.3684210526315789,0.255235570344157,0.4982220177750479,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2014,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2015,1,21,21,21,1.0,0.8453609810751531,1.0,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2015,2,172,143,172,0.8313953488372093,0.7683457463491318,0.8799655265699928,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2015,3-4,715,494,715,0.6909090909090909,0.6560914989723096,0.7236862623825714,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2015,5-9,791,393,791,0.4968394437420986,0.46209556409887675,0.5316138732429818,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2015,10+,73,28,73,0.3835616438356164,0.28050609687351297,0.49825916525316405,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2015,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2016,1,30,30,30,1.0,0.8864866068260312,1.0,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2016,2,156,124,156,0.7948717948717948,0.724786710009719,0.8507836124759081,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2016,3-4,641,443,641,0.6911076443057722,0.6542896355528569,0.7256487146395509,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2016,5-9,834,407,834,0.4880095923261391,0.4542181404843322,0.5219109949392706,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2016,10+,81,27,81,0.3333333333333333,0.2402877124166737,0.44147164939413125,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2016,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2017,1,34,34,34,1.0,0.898485445846676,0.9999999999999998,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2017,2,155,134,155,0.864516129032258,0.8017527926645732,0.9096483795417234,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2017,3-4,595,384,595,0.6453781512605042,0.6061180646208582,0.6827730892092241,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2017,5-9,796,392,796,0.49246231155778897,0.45785140292167603,0.5271456238419865,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2017,10+,88,29,88,0.32954545454545453,0.2402783721529628,0.4330717642100686,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2017,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2018,1,28,28,28,1.0,0.8793566952341543,0.9999999999999998,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2018,2,158,129,158,0.8164556962025317,0.7488328560996894,0.8690557907815224,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2018,3-4,574,407,574,0.7090592334494773,0.6706104857039566,0.7447283522011868,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2018,5-9,763,375,763,0.49148099606815204,0.45614002631381945,0.5269073169792878,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2018,10+,97,30,97,0.30927835051546393,0.2260415827234934,0.4070458355596,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2018,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2019,1,36,36,36,1.0,0.9035813714055363,1.0,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2019,2,156,129,156,0.8269230769230769,0.75989390320279,0.8782384108573615,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2019,3-4,628,420,628,0.6687898089171974,0.6310514014383513,0.7044758056488334,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2019,5-9,859,420,859,0.4889406286379511,0.4556359521822346,0.5223437800086957,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2019,10+,115,44,115,0.3826086956521739,0.2989389689158722,0.4738675897722274,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2019,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2020,1,36,36,36,1.0,0.9035813714055363,1.0,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2020,2,146,114,146,0.7808219178082192,0.7069945205086683,0.8402505520191177,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2020,3-4,594,385,594,0.6481481481481481,0.6089043622959794,0.6854880680101735,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2020,5-9,980,472,980,0.4816326530612245,0.45048217251320405,0.5129265660825935,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2020,10+,150,45,150,0.3,0.23240829378731656,0.37757980395991403,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2020,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2021,1,30,30,30,1.0,0.8864866068260312,1.0,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2021,2,164,144,164,0.8780487804878049,0.8191405491928699,0.9196518854729286,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2021,3-4,647,453,647,0.7001545595054096,0.663752275024412,0.7341941011472912,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2021,5-9,1046,502,1046,0.47992351816443596,0.449776097486547,0.5102178619374031,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2021,10+,147,43,147,0.2925170068027211,0.22501147078145953,0.37059042489822264,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2021,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2022,1,37,37,37,1.0,0.9059421741627975,1.0,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2022,2,158,130,158,0.8227848101265823,0.7557966860904218,0.8744497337284143,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2022,3-4,677,448,677,0.6617429837518464,0.6252806629043268,0.6963801248792733,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2022,5-9,1164,553,1164,0.47508591065292094,0.44652686634179006,0.5038088581164172,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2022,10+,169,61,169,0.3609467455621302,0.2923703856122973,0.435704115027287,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2022,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2023,1,28,28,28,1.0,0.8793566952341543,0.9999999999999998,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2023,2,133,105,133,0.7894736842105263,0.7125594269443503,0.8501355389204504,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2023,3-4,622,414,622,0.6655948553054662,0.6276022863678449,0.7015545585432875,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2023,5-9,1087,518,1087,0.4765409383624655,0.446984763505797,0.5062623379977195,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2023,10+,187,52,187,0.27807486631016043,0.2188172238508876,0.34626679660829895,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2023,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2024,1,32,32,32,1.0,0.8928208017449293,1.0,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2024,2,159,137,159,0.8616352201257862,0.7993901352081454,0.9068182274093091,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2024,3-4,636,441,636,0.6933962264150944,0.6564896824384642,0.7279805587575472,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2024,5-9,1057,495,1057,0.46830652790917693,0.43839361368054813,0.4984489753388499,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2024,10+,181,56,181,0.30939226519337015,0.24659840218504425,0.3801087205555656,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,record_n,annual,,,2024,unknown,0,0,0,,,,,,,,,,,,,,,,,,record_n: raw record-axis ICD position count.
+complexity,unique_record_axis_icd,annual,,,1999,1,29,29,29,1.0,0.8830302015002593,1.0,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,1999,2,213,155,213,0.7276995305164319,0.6642800823645946,0.7830513482923498,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,1999,3-4,1063,566,1063,0.5324553151458138,0.5023982572939534,0.5622786442545429,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,1999,5-9,1042,338,1042,0.32437619961612285,0.2966418053458141,0.35340075424758094,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,1999,10+,54,10,54,0.18518518518518517,0.10382685542089136,0.3083594778215249,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,1999,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2000,1,16,16,16,1.0,0.8063923194655636,1.0,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2000,2,223,169,223,0.757847533632287,0.6975631569570424,0.8093988446006237,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2000,3-4,977,522,977,0.534288638689867,0.5029367779013427,0.565371917043666,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2000,5-9,1056,359,1056,0.3399621212121212,0.3120177464036832,0.36906662976697635,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2000,10+,44,7,44,0.1590909090909091,0.07926677012201248,0.2936620506224061,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2000,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2001,1,18,18,18,1.0,0.8241207763533424,1.0,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2001,2,205,152,205,0.7414634146341463,0.6774752892353783,0.7965685168127246,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2001,3-4,986,559,986,0.5669371196754563,0.5358082723758475,0.5975464167248352,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2001,5-9,1118,404,1118,0.3613595706618962,0.3337190395771131,0.3899495790475906,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2001,10+,62,5,62,0.08064516129032258,0.03493834698599271,0.17528571348612612,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2001,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2002,1,12,12,12,1.0,0.7575059933447591,1.0,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2002,2,205,159,205,0.775609756097561,0.7137334334267957,0.8273468704462914,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2002,3-4,944,530,944,0.5614406779661016,0.5296009249003103,0.5927824113849871,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2002,5-9,1053,370,1053,0.3513770180436847,0.3231298364933897,0.3807046437045487,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2002,10+,52,6,52,0.11538461538461539,0.053969692030872964,0.22971664344902112,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2002,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2003,1,15,15,15,1.0,0.7961166989641514,1.0,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2003,2,215,164,215,0.7627906976744186,0.7016317833531245,0.8147237582747788,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2003,3-4,913,500,913,0.547645125958379,0.5152274999573919,0.5796634969134363,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2003,5-9,1001,363,1001,0.3626373626373626,0.33343237390672287,0.3928926124023148,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2003,10+,67,7,67,0.1044776119402985,0.0515376976878286,0.20031283048738024,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2003,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2004,1,17,17,17,1.0,0.8156818649911483,1.0,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2004,2,205,157,205,0.7658536585365854,0.7033233821771928,0.8186036366030417,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2004,3-4,876,524,876,0.5981735159817352,0.5653469898581098,0.6301427751167554,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2004,5-9,994,382,994,0.3843058350100604,0.35456661779708054,0.414935843774493,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2004,10+,57,7,57,0.12280701754385964,0.06078060158998085,0.23246448435174003,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2004,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2005,1,20,20,20,1.0,0.8388748419471806,1.0,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2005,2,186,148,186,0.7956989247311828,0.7320503485373218,0.8473805127894201,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2005,3-4,862,501,862,0.5812064965197216,0.5479822263007851,0.613710192760188,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2005,5-9,961,362,961,0.37669094693028093,0.34660309712192505,0.40776069204434867,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2005,10+,58,10,58,0.1724137931034483,0.096442926629388,0.2890825650932622,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2005,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2006,1,23,23,23,1.0,0.8568833815495732,1.0,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2006,2,175,129,175,0.7371428571428571,0.6673349547510149,0.7967632501468522,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2006,3-4,787,480,787,0.6099110546378653,0.5753777105811723,0.6433766276878132,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2006,5-9,893,370,893,0.4143337066069429,0.38245889115398823,0.4469423943294147,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2006,10+,69,8,69,0.11594202898550725,0.05993498142176159,0.2124574053031622,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2006,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2007,1,14,14,14,1.0,0.7846891972623642,1.0,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2007,2,164,135,164,0.823170731707317,0.7575829663998186,0.8739654051693317,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2007,3-4,726,467,726,0.6432506887052342,0.6077344644195207,0.6772589372106009,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2007,5-9,908,389,908,0.42841409691629956,0.396595333396914,0.4608360229617539,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2007,10+,58,15,58,0.25862068965517243,0.1634554520429696,0.38377385764740424,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2007,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2008,1,31,31,31,1.0,0.889744604539564,1.0,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2008,2,196,155,196,0.7908163265306123,0.7285590501696049,0.8418931506536761,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2008,3-4,816,516,816,0.6323529411764706,0.5987220570352105,0.6647435163095511,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2008,5-9,932,419,932,0.44957081545064376,0.4179060693799195,0.4816495667654864,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2008,10+,59,15,59,0.2542372881355932,0.16055977573236907,0.37796144028927275,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2008,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2009,1,13,13,13,1.0,0.7719046276458015,1.0,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2009,2,170,144,170,0.8470588235294118,0.7853383475573469,0.8934410460377628,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2009,3-4,711,465,711,0.6540084388185654,0.6182997378935896,0.6880618997782014,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2009,5-9,871,360,871,0.4133180252583238,0.3810656862773307,0.4463316112815307,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2009,10+,59,6,59,0.1016949152542373,0.04744797246240465,0.2046381362623251,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2009,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2010,1,19,19,19,1.0,0.8318207759473837,1.0,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2010,2,156,120,156,0.7692307692307693,0.6971244980247122,0.8283962312012951,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2010,3-4,718,476,718,0.6629526462395543,0.6275908479578709,0.6965800584656763,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2010,5-9,830,366,830,0.44096385542168676,0.40753489785501845,0.4749367651172186,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2010,10+,57,13,57,0.22807017543859648,0.13841890498962192,0.35206011045673496,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2010,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2011,1,21,21,21,1.0,0.8453609810751531,1.0,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2011,2,191,162,191,0.8481675392670157,0.7904493146725555,0.8921569479011369,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2011,3-4,695,432,695,0.6215827338129496,0.5849503468845331,0.6568784654546633,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2011,5-9,847,379,847,0.4474616292798111,0.4142874989189854,0.48111016996828515,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2011,10+,54,10,54,0.18518518518518517,0.10382685542089136,0.3083594778215249,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2011,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2012,1,24,24,24,1.0,0.8620237953250198,1.0,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2012,2,157,132,157,0.8407643312101911,0.7754964057893508,0.8897549590299866,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2012,3-4,652,438,652,0.6717791411042945,0.6348216336601309,0.706724325332439,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2012,5-9,841,409,841,0.4863258026159334,0.45268496369047184,0.5200909935499487,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2012,10+,72,22,72,0.3055555555555556,0.21126630975195265,0.4195424795911143,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2012,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2013,1,28,28,28,1.0,0.8793566952341543,0.9999999999999998,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2013,2,153,111,153,0.7254901960784313,0.6499080175752308,0.7900266815713952,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2013,3-4,623,412,623,0.6613162118780096,0.6232659003425642,0.69738934217785,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2013,5-9,834,383,834,0.4592326139088729,0.42567561759373596,0.4931634428465131,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2013,10+,63,14,63,0.2222222222222222,0.13725007752613644,0.3391228111343367,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2013,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2014,1,17,17,17,1.0,0.8156818649911483,1.0,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2014,2,140,114,140,0.8142857142857143,0.741790228582,0.8699944454715117,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2014,3-4,678,453,678,0.668141592920354,0.6318374890601733,0.7025510950460887,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2014,5-9,800,389,800,0.48625,0.45176401113977516,0.520867407955881,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2014,10+,57,21,57,0.3684210526315789,0.255235570344157,0.4982220177750479,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2014,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2015,1,21,21,21,1.0,0.8453609810751531,1.0,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2015,2,172,143,172,0.8313953488372093,0.7683457463491318,0.8799655265699928,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2015,3-4,715,494,715,0.6909090909090909,0.6560914989723096,0.7236862623825714,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2015,5-9,791,393,791,0.4968394437420986,0.46209556409887675,0.5316138732429818,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2015,10+,73,28,73,0.3835616438356164,0.28050609687351297,0.49825916525316405,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2015,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2016,1,30,30,30,1.0,0.8864866068260312,1.0,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2016,2,156,124,156,0.7948717948717948,0.724786710009719,0.8507836124759081,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2016,3-4,641,443,641,0.6911076443057722,0.6542896355528569,0.7256487146395509,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2016,5-9,834,407,834,0.4880095923261391,0.4542181404843322,0.5219109949392706,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2016,10+,81,27,81,0.3333333333333333,0.2402877124166737,0.44147164939413125,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2016,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2017,1,34,34,34,1.0,0.898485445846676,0.9999999999999998,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2017,2,155,134,155,0.864516129032258,0.8017527926645732,0.9096483795417234,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2017,3-4,595,384,595,0.6453781512605042,0.6061180646208582,0.6827730892092241,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2017,5-9,796,392,796,0.49246231155778897,0.45785140292167603,0.5271456238419865,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2017,10+,88,29,88,0.32954545454545453,0.2402783721529628,0.4330717642100686,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2017,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2018,1,28,28,28,1.0,0.8793566952341543,0.9999999999999998,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2018,2,158,129,158,0.8164556962025317,0.7488328560996894,0.8690557907815224,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2018,3-4,574,407,574,0.7090592334494773,0.6706104857039566,0.7447283522011868,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2018,5-9,764,375,764,0.4908376963350785,0.45552373853690487,0.5262433309027913,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2018,10+,96,30,96,0.3125,0.22850954637750148,0.4109187990691269,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2018,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2019,1,36,36,36,1.0,0.9035813714055363,1.0,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2019,2,156,129,156,0.8269230769230769,0.75989390320279,0.8782384108573615,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2019,3-4,629,420,629,0.6677265500794912,0.6299958458517958,0.7034209950631474,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2019,5-9,858,420,858,0.48951048951048953,0.4561831689807301,0.5229313191704544,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2019,10+,115,44,115,0.3826086956521739,0.2989389689158722,0.4738675897722274,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2019,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2020,1,36,36,36,1.0,0.9035813714055363,1.0,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2020,2,146,114,146,0.7808219178082192,0.7069945205086683,0.8402505520191177,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2020,3-4,594,385,594,0.6481481481481481,0.6089043622959794,0.6854880680101735,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2020,5-9,980,472,980,0.4816326530612245,0.45048217251320405,0.5129265660825935,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2020,10+,150,45,150,0.3,0.23240829378731656,0.37757980395991403,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2020,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2021,1,30,30,30,1.0,0.8864866068260312,1.0,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2021,2,164,144,164,0.8780487804878049,0.8191405491928699,0.9196518854729286,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2021,3-4,647,453,647,0.7001545595054096,0.663752275024412,0.7341941011472912,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2021,5-9,1046,502,1046,0.47992351816443596,0.449776097486547,0.5102178619374031,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2021,10+,147,43,147,0.2925170068027211,0.22501147078145953,0.37059042489822264,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2021,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2022,1,37,37,37,1.0,0.9059421741627975,1.0,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2022,2,158,130,158,0.8227848101265823,0.7557966860904218,0.8744497337284143,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2022,3-4,677,448,677,0.6617429837518464,0.6252806629043268,0.6963801248792733,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2022,5-9,1164,553,1164,0.47508591065292094,0.44652686634179006,0.5038088581164172,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2022,10+,169,61,169,0.3609467455621302,0.2923703856122973,0.435704115027287,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2022,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2023,1,28,28,28,1.0,0.8793566952341543,0.9999999999999998,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2023,2,133,105,133,0.7894736842105263,0.7125594269443503,0.8501355389204504,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2023,3-4,622,414,622,0.6655948553054662,0.6276022863678449,0.7015545585432875,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2023,5-9,1087,518,1087,0.4765409383624655,0.446984763505797,0.5062623379977195,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2023,10+,187,52,187,0.27807486631016043,0.2188172238508876,0.34626679660829895,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2023,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2024,1,32,32,32,1.0,0.8928208017449293,1.0,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2024,2,159,137,159,0.8616352201257862,0.7993901352081454,0.9068182274093091,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2024,3-4,636,441,636,0.6933962264150944,0.6564896824384642,0.7279805587575472,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2024,5-9,1057,495,1057,0.46830652790917693,0.43839361368054813,0.4984489753388499,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2024,10+,181,56,181,0.30939226519337015,0.24659840218504425,0.3801087205555656,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity,unique_record_axis_icd,annual,,,2024,unknown,0,0,0,,,,,,,,,,,,,,,,,,unique_record_axis_icd: distinct nonblank normalized four-character record-axis ICD codes.
+complexity_kitagawa,record_n,1999_vs_2024,1999,2024,,1,29,29,2401,,,,0.012078300708038317,0.01549636803874092,1.0,1.0,0.0034180673307026028,0.0,0.10491814851156656,-0.040982331677013664,0.14590048018858018,2.7755575615628914e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+complexity_kitagawa,record_n,1999_vs_2024,1999,2024,,10+,55,11,2401,,,,0.022907122032486463,0.08765133171912833,0.2,0.30939226519337015,0.01649009981521652,0.006047119846082796,0.10491814851156656,-0.040982331677013664,0.14590048018858018,2.7755575615628914e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+complexity_kitagawa,record_n,1999_vs_2024,1999,2024,,2,213,155,2401,,,,0.08871303623490212,0.07699757869249395,0.7276995305164319,0.8616352201257862,-0.009309891895911394,0.01109728274294548,0.10491814851156656,-0.040982331677013664,0.14590048018858018,2.7755575615628914e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+complexity_kitagawa,record_n,1999_vs_2024,1999,2024,,3-4,1063,566,2401,,,,0.44273219491878385,0.3079903147699758,0.5324553151458138,0.6933962264150944,-0.08258677074661575,0.06041098240983514,0.10491814851156656,-0.040982331677013664,0.14590048018858018,2.7755575615628914e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+complexity_kitagawa,record_n,1999_vs_2024,1999,2024,,5-9,1041,337,2401,,,,0.43356934610578923,0.511864406779661,0.32372718539865514,0.46830652790917693,0.031006163819594357,0.06834509518971676,0.10491814851156656,-0.040982331677013664,0.14590048018858018,2.7755575615628914e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+complexity_kitagawa_total,record_n,1999_vs_2024,1999,2024,,TOTAL,2401,1098,2401,,,,,,0.4573094543940025,0.5622276029055691,,,0.10491814851156656,-0.040982331677013664,0.14590048018858018,2.7755575615628914e-17,,,,,TOTAL row is endpoint UCF change and identity check.
+complexity_kitagawa,record_n,2018_vs_2024,2018,2024,,1,28,28,1620,,,,0.01728395061728395,0.01549636803874092,1.0,1.0,-0.0017875825785430288,0.0,-0.03592054524257904,-0.02329607382628399,-0.012624471416295087,3.8163916471489756e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+complexity_kitagawa,record_n,2018_vs_2024,2018,2024,,10+,97,30,1620,,,,0.059876543209876544,0.08765133171912833,0.30927835051546393,0.30939226519337015,0.008591722754100724,8.402795177363637e-06,-0.03592054524257904,-0.02329607382628399,-0.012624471416295087,3.8163916471489756e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+complexity_kitagawa,record_n,2018_vs_2024,2018,2024,,2,158,129,1620,,,,0.09753086419753086,0.07699757869249395,0.8164556962025317,0.8616352201257862,-0.01722835994418918,0.003942555980419119,-0.03592054524257904,-0.02329607382628399,-0.012624471416295087,3.8163916471489756e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+complexity_kitagawa,record_n,2018_vs_2024,2018,2024,,3-4,574,407,1620,,,,0.35432098765432096,0.3079903147699758,0.7090592334494773,0.6933962264150944,-0.03248835257292467,-0.005186893294411546,-0.03592054524257904,-0.02329607382628399,-0.012624471416295087,3.8163916471489756e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+complexity_kitagawa,record_n,2018_vs_2024,2018,2024,,5-9,763,375,1620,,,,0.47098765432098766,0.511864406779661,0.49148099606815204,0.46830652790917693,0.019616498515272165,-0.011388536897480024,-0.03592054524257904,-0.02329607382628399,-0.012624471416295087,3.8163916471489756e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+complexity_kitagawa_total,record_n,2018_vs_2024,2018,2024,,TOTAL,1620,969,1620,,,,,,0.5981481481481481,0.5622276029055691,,,-0.03592054524257904,-0.02329607382628399,-0.012624471416295087,3.8163916471489756e-17,,,,,TOTAL row is endpoint UCF change and identity check.
+complexity_kitagawa,unique_record_axis_icd,1999_vs_2024,1999,2024,,1,29,29,2401,,,,0.012078300708038317,0.01549636803874092,1.0,1.0,0.0034180673307026028,0.0,0.10491814851156656,-0.041498590511321536,0.14641673902288804,5.551115123125783e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+complexity_kitagawa,unique_record_axis_icd,1999_vs_2024,1999,2024,,10+,54,10,2401,,,,0.022490628904623073,0.08765133171912833,0.18518518518518517,0.30939226519337015,0.016113507131436382,0.006840205657726324,0.10491814851156656,-0.041498590511321536,0.14641673902288804,5.551115123125783e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+complexity_kitagawa,unique_record_axis_icd,1999_vs_2024,1999,2024,,2,213,155,2401,,,,0.08871303623490212,0.07699757869249395,0.7276995305164319,0.8616352201257862,-0.009309891895911394,0.01109728274294548,0.10491814851156656,-0.041498590511321536,0.14641673902288804,5.551115123125783e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+complexity_kitagawa,unique_record_axis_icd,1999_vs_2024,1999,2024,,3-4,1063,566,2401,,,,0.44273219491878385,0.3079903147699758,0.5324553151458138,0.6933962264150944,-0.08258677074661575,0.06041098240983514,0.10491814851156656,-0.041498590511321536,0.14641673902288804,5.551115123125783e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+complexity_kitagawa,unique_record_axis_icd,1999_vs_2024,1999,2024,,5-9,1042,338,2401,,,,0.43398583923365264,0.511864406779661,0.32437619961612285,0.46830652790917693,0.03086649766906662,0.0680682682123811,0.10491814851156656,-0.041498590511321536,0.14641673902288804,5.551115123125783e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+complexity_kitagawa_total,unique_record_axis_icd,1999_vs_2024,1999,2024,,TOTAL,2401,1098,2401,,,,,,0.4573094543940025,0.5622276029055691,,,0.10491814851156656,-0.041498590511321536,0.14641673902288804,5.551115123125783e-17,,,,,TOTAL row is endpoint UCF change and identity check.
+complexity_kitagawa,unique_record_axis_icd,2018_vs_2024,2018,2024,,1,28,28,1620,,,,0.01728395061728395,0.01549636803874092,1.0,1.0,-0.0017875825785430288,0.0,-0.03592054524257904,-0.023368571622532985,-0.012551973620046071,1.734723475976807e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+complexity_kitagawa,unique_record_axis_icd,2018_vs_2024,2018,2024,,10+,96,30,1620,,,,0.05925925925925926,0.08765133171912833,0.3125,0.30939226519337015,0.008828405127801137,-0.00022827957852304798,-0.03592054524257904,-0.023368571622532985,-0.012551973620046071,1.734723475976807e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+complexity_kitagawa,unique_record_axis_icd,2018_vs_2024,2018,2024,,2,158,129,1620,,,,0.09753086419753086,0.07699757869249395,0.8164556962025317,0.8616352201257862,-0.01722835994418918,0.003942555980419119,-0.03592054524257904,-0.023368571622532985,-0.012551973620046071,1.734723475976807e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+complexity_kitagawa,unique_record_axis_icd,2018_vs_2024,2018,2024,,3-4,574,407,1620,,,,0.35432098765432096,0.3079903147699758,0.7090592334494773,0.6933962264150944,-0.03248835257292467,-0.005186893294411546,-0.03592054524257904,-0.023368571622532985,-0.012551973620046071,1.734723475976807e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+complexity_kitagawa,unique_record_axis_icd,2018_vs_2024,2018,2024,,5-9,764,375,1620,,,,0.47160493827160493,0.511864406779661,0.4908376963350785,0.46830652790917693,0.019307318345322757,-0.011079356727530595,-0.03592054524257904,-0.023368571622532985,-0.012551973620046071,1.734723475976807e-17,,,,,Kitagawa two-way descriptive accounting; components are not causal mediation.
+complexity_kitagawa_total,unique_record_axis_icd,2018_vs_2024,2018,2024,,TOTAL,1620,969,1620,,,,,,0.5981481481481481,0.5622276029055691,,,-0.03592054524257904,-0.023368571622532985,-0.012551973620046071,1.734723475976807e-17,,,,,TOTAL row is endpoint UCF change and identity check.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,1999,all_A_records,2401,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,7,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,2000,all_A_records,2316,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,2,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,2001,all_A_records,2389,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,3,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,2002,all_A_records,2266,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,2,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,2003,all_A_records,2211,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,4,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,2004,all_A_records,2149,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,0,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,2005,all_A_records,2087,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,4,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,2006,all_A_records,1947,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,4,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,2007,all_A_records,1870,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,2,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,2008,all_A_records,2034,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,2,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,2009,all_A_records,1824,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,3,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,2010,all_A_records,1780,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,1,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,2011,all_A_records,1808,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,2,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,2012,all_A_records,1746,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,1,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,2013,all_A_records,1701,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,0,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,2014,all_A_records,1692,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,1,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,2015,all_A_records,1772,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,0,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,2016,all_A_records,1742,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,1,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,2017,all_A_records,1668,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,2,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,2018,all_A_records,1620,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,2,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,2019,all_A_records,1794,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,3,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,2020,all_A_records,1906,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,0,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,2021,all_A_records,2034,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,0,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,2022,all_A_records,2205,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,0,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,2023,all_A_records,2057,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,0,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.
+complexity_counter_audit,record_n_vs_unique_record_axis_icd,annual,,,2024,all_A_records,2065,,,,,,,,,,,,,,,,,,count_records_with_record_n_neq_unique_count,0,The count objects differ when their integer counts differ; target total is 46 across 1999-2024.

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the associated manuscript and the NCHS/CDC data sources."
+title: "Conditional Underlying-Cause Fractions Among U.S. Deaths With Record-Axis Cholelithiasis Codes, 1999–2024: Decomposition and Exploratory Internal Comparisons"
+type: software
+authors:
+  - family-names: "AUTHOR_TO_BE_COMPLETED"
+version: "0.1.0"
+date-released: "2026-08-23"
+abstract: "Code, aggregate derived tables, source data, and query specifications supporting a multiple-cause-of-death study."
+repository-code: "https://github.com/FENG1567/cholelithiasis-mcd-ucf"
+doi: "DOI_TO_BE_COMPLETED"

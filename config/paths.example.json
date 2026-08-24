@@ -1,0 +1,6 @@
+{
+  "repository_root": ".",
+  "nchs_raw_data_root": "PATH_TO_OFFICIALLY_DOWNLOADED_NCHS_FILES",
+  "nchs_layout_crosswalk": "PATH_TO_OFFICIAL_YEAR_SPECIFIC_LAYOUT_CROSSWALK",
+  "output_root": "results"
+}

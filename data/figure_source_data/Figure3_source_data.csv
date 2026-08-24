@@ -1,0 +1,35 @@
+"panel","group","stratum","year","estimate","lo","hi","composition","component","bootstrap_reps","method"
+"A/B","subtype_priority","K80.0",1999,0.755725190839695,0.675554916170215,0.821324905406719,0.0545605997501041,NA,NA,NA
+"A/B","subtype_priority","K80.0",2024,0.748571428571429,0.679425861030971,0.807038522416191,0.0847457627118644,NA,NA,NA
+"A/B","subtype_priority","K80.1",1999,0.507552870090634,0.453917450436098,0.561014989583755,0.137859225322782,NA,NA,NA
+"A/B","subtype_priority","K80.1",2024,0.720779220779221,0.6452138349373,0.78559819954375,0.0745762711864407,NA,NA,NA
+"A/B","subtype_priority","K80.2",1999,0.384903306300686,0.361386072950753,0.408970860538616,0.667638483965015,NA,NA,NA
+"A/B","subtype_priority","K80.2",2024,0.435765673175745,0.404922125439566,0.467114427809404,0.471186440677966,NA,NA,NA
+"A/B","subtype_priority","K80.3",1999,0.916666666666667,0.819310579816656,0.963879543398269,0.0249895876718034,NA,NA,NA
+"A/B","subtype_priority","K80.3",2024,0.867088607594937,0.805352867755531,0.911397962626675,0.0765133171912833,NA,NA,NA
+"A/B","subtype_priority","K80.4",1999,0.564102564102564,0.409756916486695,0.706952461243104,0.0162432319866722,NA,NA,NA
+"A/B","subtype_priority","K80.4",2024,0.76530612244898,0.672382345780697,0.838215210481268,0.0474576271186441,NA,NA,NA
+"A/B","subtype_priority","K80.5",1999,0.574468085106383,0.510555355144317,0.635985367613015,0.0978758850478967,NA,NA,NA
+"A/B","subtype_priority","K80.5",2024,0.555555555555556,0.511916086461348,0.598354548256115,0.24406779661017,NA,NA,NA
+"A/B","subtype_priority","K80.8",1999,1,0.342380227506653,1,0.000832986255726781,NA,NA,NA
+"A/B","subtype_priority","K80.8",2024,1,0.438502968244954,1,0.00145278450363196,NA,NA,NA
+"C","K80 subtype",NA,NA,0.0531475911486144,0.0414979095504369,0.0650149897502814,NA,"Composition",100000,"Endpoint-year joint multinomial bootstrap over (stratum, UCD-K80 status); symmetric Kitagawa re-estimated jointly each replicate; percentile 95% CI."
+"C","Severity grouping",NA,NA,0.0269479698214208,0.0187020477863937,0.0353423671071855,NA,"Composition",100000,"Endpoint-year joint multinomial bootstrap over (stratum, UCD-K80 status); symmetric Kitagawa re-estimated jointly each replicate; percentile 95% CI."
+"C","Part I vs Part II",NA,NA,0.0831312001254449,0.0600835488138144,0.106277331565596,NA,"Composition",100000,"Endpoint-year joint multinomial bootstrap over (stratum, UCD-K80 status); symmetric Kitagawa re-estimated jointly each replicate; percentile 95% CI."
+"C","Certificate complexity",NA,NA,-0.0409823316770137,-0.0516557036479516,-0.0306496218330001,NA,"Composition",100000,"Endpoint-year joint multinomial bootstrap over (stratum, UCD-K80 status); symmetric Kitagawa re-estimated jointly each replicate; percentile 95% CI."
+"C","K80 subtype",NA,NA,0.0517705573629522,0.0226610709203544,0.0811122262732915,NA,"Within-stratum UCF change",100000,"Endpoint-year joint multinomial bootstrap over (stratum, UCD-K80 status); symmetric Kitagawa re-estimated jointly each replicate; percentile 95% CI."
+"C","Severity grouping",NA,NA,0.0779701786901457,0.0498263954416564,0.106328132747784,NA,"Within-stratum UCF change",100000,"Endpoint-year joint multinomial bootstrap over (stratum, UCD-K80 status); symmetric Kitagawa re-estimated jointly each replicate; percentile 95% CI."
+"C","Part I vs Part II",NA,NA,0.0217869483861217,0.00374756164490841,0.0400685802714717,NA,"Within-stratum UCF change",100000,"Endpoint-year joint multinomial bootstrap over (stratum, UCD-K80 status); symmetric Kitagawa re-estimated jointly each replicate; percentile 95% CI."
+"C","Certificate complexity",NA,NA,0.14590048018858,0.117905230998019,0.173891809326202,NA,"Within-stratum UCF change",100000,"Endpoint-year joint multinomial bootstrap over (stratum, UCD-K80 status); symmetric Kitagawa re-estimated jointly each replicate; percentile 95% CI."
+"D","Part rule","Part I priority",NA,0.0831312001254449,NA,NA,0.104918148511567,"Composition",NA,"full-scan operational-definition sensitivity"
+"D","Part rule","Part I priority",NA,0.0217869483861217,NA,NA,0.104918148511567,"Within-stratum UCF",NA,"full-scan operational-definition sensitivity"
+"D","Part rule","Part II priority",NA,0.07871248642064,NA,NA,0.104918148511567,"Composition",NA,"full-scan operational-definition sensitivity"
+"D","Part rule","Part II priority",NA,0.0262056620909266,NA,NA,0.104918148511567,"Within-stratum UCF",NA,"full-scan operational-definition sensitivity"
+"D","Part rule","Both separate",NA,0.0832618098898823,NA,NA,0.104918148511567,"Composition",NA,"full-scan operational-definition sensitivity"
+"D","Part rule","Both separate",NA,0.0216563386216843,NA,NA,0.104918148511567,"Within-stratum UCF",NA,"full-scan operational-definition sensitivity"
+"D","Part rule","Both excluded",NA,0.0825063732925352,NA,NA,0.10460735709733,"Composition",NA,"full-scan operational-definition sensitivity"
+"D","Part rule","Both excluded",NA,0.022100983804795,NA,NA,0.10460735709733,"Within-stratum UCF",NA,"full-scan operational-definition sensitivity"
+"D","Complexity","record_n positions",NA,-0.0409823316770137,NA,NA,0.104918148511567,"Composition",NA,"full-scan operational-definition sensitivity"
+"D","Complexity","record_n positions",NA,0.14590048018858,NA,NA,0.104918148511567,"Within-stratum UCF",NA,"full-scan operational-definition sensitivity"
+"D","Complexity","Unique ICD codes",NA,-0.0414985905113215,NA,NA,0.104918148511567,"Composition",NA,"full-scan operational-definition sensitivity"
+"D","Complexity","Unique ICD codes",NA,0.146416739022888,NA,NA,0.104918148511567,"Within-stratum UCF",NA,"full-scan operational-definition sensitivity"
